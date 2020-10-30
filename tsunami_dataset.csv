@@ -1,0 +1,1038 @@
+ID,YEAR,MONTH,DAY,HOUR,MINUTE,LATITUDE,LONGITUDE,LOCATION_NAME,COUNTRY,REGION,CAUSE,EVENT_VALIDITY,EQ_MAGNITUDE,EQ_DEPTH,TS_INTENSITY,DAMAGE_TOTAL_DESCRIPTION,HOUSES_TOTAL_DESCRIPTION,DEATHS_TOTAL_DESCRIPTION
+1480,1920,1,29,,,0.87,122.92,N. MOLUCCAS ISLANDS,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,1,,,
+1485,1920,8,20,16,15,-38,-73.5,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7,15,1,Moderate (~$1 to $5 million),Some (~51 to 100 houses),
+1486,1920,9,20,14,39,-19.919,168.53,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,35,,Limited (<$1 million),,
+1482,1920,2,2,11,22,-6.5,150,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.7,,,Limited (<$1 million),Few (~1 to 50 houses),
+1488,1920,12,18,2,1,40.5,19.5,ALBANIAN COASTS,ALBANIA,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.6,,5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+3541,1920,12,16,12,5,36.7,104.9,CHINA: GANSU AND SHANXI PROVINCES,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,7.8,17,,,,
+1491,1921,11,11,18,36,8,127,PHILIPPINE TRENCH,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.5,,1,Limited (<$1 million),Few (~1 to 50 houses),
+1490,1921,9,11,4,1,-11,111,JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,,-2,,,
+1489,1921,5,14,11,17,0.7,117.9,MAKASSAR STRAIT,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.2,,0.5,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+3537,1921,8,4,,,40.13,124.38,"XIAOSI, DANDONG, LIAONING",CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,,,,Limited (<$1 million),Few (~1 to 50 houses),
+1495,1922,1,19,21,58,-7.111,143.53,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.9,33,,Limited (<$1 million),Few (~1 to 50 houses),
+1494,1922,1,6,14,11,-16.5,-73,S. PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7.2,33,,,,
+1500,1922,4,10,,,-1,100.35,SW. SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0,,,
+1496,1922,2,22,,,-3.3,128.9,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0.5,,,
+1499,1922,3,1,9,10,9,123.25,SULU SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6,33,0.5,Moderate (~$1 to $5 million),,
+1498,1922,2,27,20,39,10.2,124.1,CEBU ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.3,,0,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1503,1922,9,1,19,16,24.5,122,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.6,,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1504,1922,11,7,23,0,-28,-72,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7,33,,,,
+1506,1922,12,25,3,33,-43,173,SE. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,6.3,,0,,,
+1502,1922,7,8,,,5.5,95.2,"LHOKNGA, ACEH",INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0,,,
+1505,1922,11,11,4,32,-28.553,-70.755,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.7,35,2.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+3503,1922,8,8,3,49,37.5,23.2,AEGEAN SEA,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5.6,,,,,
+1509,1923,2,17,,,-35.33,-72.42,CENTRAL CHILE,CHILE,West Coast of South America,Unknown,Probable Tsunami,,,1.5,,,
+1515,1923,3,4,,,-26.3,-80.1,SAN FELIX ISLAND,CHILE,West Coast of South America,Unknown,Very Doubtful Tsunami,,,4,,,
+1524,1923,8,12,,,-18.5,-70.3,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,,33,,,,
+1529,1923,11,4,0,4,-4.539,153.107,NEW BRITAIN,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.1,149,,,,
+1528,1923,11,2,21,8,-4.653,154.232,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.1,145,,,,
+1522,1923,7,18,2,24,9.3,125,"BUTUAN, SULU SEA",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,5.5,,1,,,
+1521,1923,6,1,17,24,35.4,141.8,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7.3,40,-1.5,,,
+1512,1923,3,2,16,48,6.5,124,"MINDANAO ISLAND, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.2,22,0.5,,,
+1507,1923,1,22,9,4,40.8,-124.5,N. CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,7.2,,,Limited (<$1 million),,
+1527,1923,9,2,2,46,34.9,140.2,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,20,-1.5,,,
+1508,1923,2,3,16,1,54,161,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,19,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1517,1923,4,13,15,31,56.5,162.5,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,20,3.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1526,1923,9,1,2,58,35.1,139.5,SAGAMI BAY,JAPAN,Japan,Earthquake,Definite Tsunami,7.9,33,3,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2456,1923,8,6,,,40.6,-73.5,"ROCKAWAY BEACH, NY",USA,"East Coast USA and Canada, St Pierre and Miquelon",Unknown,Very Doubtful Tsunami,,,,,,Few (~1 to 50 people)
+5720,1923,,,,,10.158,109.014,OFF COAST OF CENTRAL VIETNAM,VIETNAM,"China, North and South Korea, Philippines, Taiwan",Volcano and Earthquake,Questionable Tsunami,6.1,,,Limited (<$1 million),,
+1544,1924,7,19,,,-43.95,-176.567,CHATHAM I.,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Very Doubtful Tsunami,,,1,Limited (<$1 million),,
+1545,1924,8,28,,,64.15,-21.95,ICELAND: REYKJAVIK,ICELAND,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,,,,
+1538,1924,5,6,16,9,16,118,PHILIPPINES,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,6.5,,1.5,Limited (<$1 million),,
+1536,1924,4,14,16,20,6.5,126.5,E. MINDANAO ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake and Landslide,Definite Tsunami,8.3,33,0.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),
+1531,1924,3,15,10,31,49.179,142.436,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,15,,,,
+1546,1924,8,30,3,4,8.5,126.5,E. MINDANAO ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.3,33,0.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),
+1543,1924,6,26,1,37,-56,157.5,MACQUARIE ISLAND,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,7.8,,,,,
+2457,1924,8,8,,,40.567,-73.983,"CONEY ISLAND, NY",USA,"East Coast USA and Canada, St Pierre and Miquelon",Unknown,Very Doubtful Tsunami,,,,,,
+1554,1925,5,5,10,6,9.3,122.7,W. LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.8,33,0.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1555,1925,5,15,11,56,-26,-71.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,50,,,,
+1560,1925,11,16,11,54,18.5,-107,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7,80,3,Moderate (~$1 to $5 million),,
+1550,1925,2,23,23,53,60,-146,"GULF OF ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,6,,1,Limited (<$1 million),,
+1549,1925,1,8,,,-8,115,BANDA SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,,,0,,,
+1556,1925,5,25,3,43,12.2,122.1,W. LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6.3,,0.5,,,
+1559,1925,11,13,12,14,13,125,PHILIPPINE SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.3,22,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+1562,1925,12,22,,,10,138,CAROLINE ISLANDS,"MICRONESIA, FED. STATES OF","E Coast Australia, New Zealand, South Pacific Is.",Meteorological,Very Doubtful Tsunami,,,1.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5497,1925,5,4,17,25,14.583,-106.1,,MEXICO,West Coast of North and Central America,Unknown,Very Doubtful Tsunami,,,,,,
+1569,1926,7,30,,,49.21,-2.131,ENGLISH CHANNEL,UK,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,,,,,,
+1563,1926,1,25,0,36,-10.061,159.215,SOLOMON SEA,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,15,,Limited (<$1 million),,
+1570,1926,8,31,10,40,37.973,-28.59,AZORES,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Very Doubtful Tsunami,5.8,10,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1573,1926,12,9,,,-28,-71,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6,33,0.5,,,
+1572,1926,9,16,17,59,-9.674,159.519,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,35,1.5,Moderate (~$1 to $5 million),,
+1565,1926,3,20,9,3,20.5,-155.5,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Very Doubtful Tsunami,,,,,,
+1567,1926,6,28,3,23,-0.7,100.6,SW. SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,5.8,,,Moderate (~$1 to $5 million),,Many (~101 to 1000 people)
+1568,1926,7,,,,35,128,S. OF KOREA,SOUTH KOREA,"China, North and South Korea, Philippines, Taiwan",Unknown,Very Doubtful Tsunami,,,1.5,,,Many (~101 to 1000 people)
+2464,1926,1,9,,,44.233,-68.35,"BERNARD, ME",USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Questionable Tsunami,,,,,,
+3504,1926,8,30,11,38,36.5,23.3,ARGOLIKOS GULF,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,,,,
+3419,1926,8,17,1,42,38.567,14.833,AEOLIAN ISLANDS,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.3,100,3,,,
+5531,1926,,,,,-38.37,178.31,"TOLAGA BAY, NORTH ISLAND",NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Questionable Tsunami,,,,,,
+1584,1927,10,24,15,59,57.69,-136.07,"SE. ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Probable Tsunami,7.1,25,,,,
+1579,1927,8,18,19,28,34.2,142,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.4,20,,,,
+1589,1927,12,28,18,20,55.663,160.039,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,35,,,,
+1586,1927,11,21,23,12,-44.6,-73,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.1,33,2,,,
+1578,1927,8,5,21,13,37.9,142,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10,,Limited (<$1 million),,
+1585,1927,11,4,13,50,34.813,-120.774,S. CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,10,1,Moderate (~$1 to $5 million),,
+1576,1927,3,7,9,27,35.6,135.1,SW. HONSHU ISLAND,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,7.6,10,0.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1587,1927,12,1,4,37,-0.7,119.7,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,6.3,,3,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1575,1927,1,1,8,17,32.5,-115.5,S. CALIFORNIA,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,5.7,,1,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2298,1927,6,26,11,20,44.4,34.4,"CRIMEA, BLACK SEA",UKRAINE,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6,27,2,Moderate (~$1 to $5 million),,
+2299,1927,9,11,22,15,44.4,34.5,"CRIMEA, BLACK SEA",UKRAINE,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6.8,17,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+4255,1927,1,24,5,18,59,3,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,5.1,,,,,
+4416,1927,7,11,13,4,32,35.5,DEAD SEA,ISRAEL,Mediterranean Sea,Earthquake,Questionable Tsunami,6.3,,,Severe (~>$5 to $24 million),,Many (~101 to 1000 people)
+5498,1927,9,6,,,17,-104,MEXICO,MEXICO,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,,,,,,
+1593,1928,3,26,,,-6.102,105.423,KRAKATAU,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,,,,
+1590,1928,,,,,48.967,-58,"CURLING, NEWFOUNDLAND",CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Unknown,Very Doubtful Tsunami,,,,,,
+1595,1928,3,31,,,-23.7,-70.4,NORTHERN CHILE,CHILE,West Coast of South America,Unknown,Very Doubtful Tsunami,,,2,,,
+1598,1928,4,25,0,31,38,23,"GRECIAN ARCHIPELAGO, CRETE",GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.2,,,,,
+1602,1928,5,27,9,50,40,143.2,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7,40,-2,,,
+1591,1928,2,9,,,49,-125,BRITISH COLUMBIA,CANADA,West Coast of North and Central America,Earthquake,Questionable Tsunami,5.8,33,0,,,
+1608,1928,11,20,20,35,-22.5,-70.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,33,,,,
+1606,1928,7,18,19,5,-5.5,-79,N. PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7,70,,,,
+1601,1928,5,18,,,-19.83,-174.36,LIFUKA ISLAND,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,,,0.5,,,
+1600,1928,5,3,1,25,40.8,26.8,WESTERN TURKEY,TURKEY,Mediterranean Sea,Earthquake,Questionable Tsunami,4.3,,2,,,
+1599,1928,4,27,20,34,-13,-69.5,S. PERU,PERU,West Coast of South America,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,,,,,
+1609,1928,12,1,4,6,-35,-72,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.6,25,0.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+1605,1928,6,17,3,19,16.028,-97.036,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,35,1,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1603,1928,6,15,6,12,12.4,120.9,SULU SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7,33,0.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),
+1597,1928,4,22,20,13,38,23,CORINTHOS-PATRAS GULF,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6,29,3,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1594,1928,3,31,0,29,38.1,27.4,EAST AEGEAN,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.5,,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+1592,1928,3,22,4,17,15.67,-96.1,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,60,,,,
+1611,1928,12,19,11,37,7,124,CELEBES SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.3,,1,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+1596,1928,4,9,17,34,-13,-69.6,S. PERU,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,30,1,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1607,1928,8,4,,,-8.32,121.708,FLORES SEA,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Landslide,Definite Tsunami,,1,3,,,Many (~101 to 1000 people)
+3402,1928,4,24,1,14,38,23.5,AEGEAN SEA,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5,,3,,,
+3769,1928,5,2,21,54,39.6,29.1,NORTH AEGEAN,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.2,,,,,
+1620,1929,8,9,,,-23.7,-70.4,NORTHERN CHILE,CHILE,West Coast of South America,Meteorological,Questionable Tsunami,,,2.5,,,
+1616,1929,5,26,22,39,51,-131,BRITISH COLUMBIA,CANADA,West Coast of North and Central America,Earthquake,Probable Tsunami,7,33,0,Limited (<$1 million),,
+1614,1929,5,21,16,35,31.7,132.2,HIUGANADA,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,30,,,,
+1618,1929,6,16,22,47,-41.75,172.25,TASMAN SEA,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,7.5,,1.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1617,1929,6,13,9,24,8.5,127,E. MINDANAO ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.2,,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+1613,1929,3,7,1,34,50.88,-169.71,"FOX ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,50,,Limited (<$1 million),,
+1612,1929,1,17,11,52,10.6,-65.6,CUMANA,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,6.9,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1622,1929,11,18,20,32,44.69,-56,"GRAND BANKS, NEWFOUNDLAND",CANADA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake and Landslide,Definite Tsunami,7.3,20,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2365,1929,8,12,11,24,42.9,-78.3,"ATTICA, NEW YORK",USA,"East Coast USA and Canada, St Pierre and Miquelon",Earthquake,Event that only caused a seiche or disturbance in an inland river,,,,,,
+4417,1929,11,9,,,4.633,95.567,"TJALANG, N.W. SUMATRA",INDONESIA,Indian Ocean (including west coast of Australia),Unknown,Questionable Tsunami,,,,,,Few (~1 to 50 people)
+1624,1930,3,17,,,-6.102,105.423,KRAKATAU,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,,,,
+1634,1930,12,29,8,26,-28.5,-71,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6,,0.5,,,
+1630,1930,9,30,21,20,-4.423,145.46,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.6,35,,,,
+1629,1930,9,11,,,1.2,124.57,CELEBES SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,,,0,,,
+1626,1930,7,19,15,20,-9.3,114.3,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,100,,,,
+1625,1930,6,19,13,7,-5.6,105.3,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6,33,,,,
+1627,1930,8,31,0,40,34.03,-118.643,S. CALIFORNIA,USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,5.2,15,-0.5,Limited (<$1 million),,Few (~1 to 50 people)
+1632,1930,12,23,21,35,-1.3,144.3,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,33,1.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3052,1930,5,5,13,45,17.3,96.5,MYANMAR COAST,MYANMAR (BURMA),Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.3,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+3569,1930,1,3,,,32.2,119.4,JIANGSU PROVINCE,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.5,,,Limited (<$1 million),,
+3620,1930,11,5,,,-4.05,39.667,MOMBASA,KENYA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,,,,,,
+3619,1930,2,16,,,36,-3,OFF SOUTHERN COAST,SPAIN,Mediterranean Sea,Earthquake,Questionable Tsunami,,,,,,
+4244,1930,5,2,,,63.317,9.85,MID-NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3,Limited (<$1 million),,
+4223,1930,10,30,7,13,43.667,13.267,CENTRAL ADRIATIC,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.9,,4,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4218,1930,9,11,9,52,38.789,15.213,STROMBOLI ISLAND,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,3,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1643,1931,8,31,,,38.4,-27.1,AZORES,PORTUGAL,Northeast Atlantic Ocean,Unknown,Very Doubtful Tsunami,,,,Limited (<$1 million),,
+1641,1931,8,7,2,11,-3.417,142.077,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7,35,,,,
+1644,1931,9,25,5,59,-5,102.75,SW. SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.4,,,Limited (<$1 million),,
+1638,1931,2,19,,,-39.5,177,N. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,,,,,,
+1640,1931,3,18,8,2,-32.5,-72,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.1,33,,,,
+1637,1931,2,13,1,27,-39.5,177,N. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,7.1,,0,,,
+1646,1931,11,2,10,2,32.2,132.1,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,40,,,Few (~1 to 50 houses),Few (~1 to 50 people)
+1639,1931,3,9,3,49,41.2,142.5,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,60,-1,,,
+1636,1931,2,2,22,46,-39.772,176.025,N. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,7.7,35,0,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+1645,1931,10,3,19,13,-10.932,161.016,SAN CRISTOBAL ISLAND,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,35,2.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2382,1931,12,1,,,22.8,-80.4,NORTHERN COAST (LAS VILLAS),CUBA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,0,,,,
+2465,1931,8,19,,,39.35,-74.417,"ATLANTIC CITY, NJ",USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,,,,Few (~1 to 50 people)
+4300,1931,6,7,0,25,54,1.067,"DOGGER BANK, ENGLAND",UK,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,6,70,,,,
+1656,1932,11,4,,,10.5,-64.2,CUMANA,VENEZUELA,Caribbean Sea,Earthquake,Very Doubtful Tsunami,,,,,,
+1654,1932,9,15,13,54,-39,177.5,N. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,6.8,,0,,,
+1653,1932,9,9,13,38,-3.57,128.35,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6.2,17,0,Severe (~>$5 to $24 million),Some (~51 to 100 houses),
+1655,1932,9,26,19,20,40.5,23.9,NORTH AEGEAN,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.9,35,3,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+1651,1932,6,18,10,12,19.081,-103.631,CENTRAL MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.8,15,0.5,Moderate (~$1 to $5 million),,
+1648,1932,2,3,6,16,20,-75.8,SANTIAGO DE CUBA,CUBA,Caribbean Sea,Earthquake,Questionable Tsunami,6.7,,,,,
+1649,1932,6,3,10,36,19.623,-103.919,CENTRAL MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.1,35,2,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+1652,1932,6,22,12,59,19.242,-104.383,CENTRAL MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,25,1.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+1657,1933,1,8,16,,49.12,154.508,"KHARIMKOTAN, N. KURIL ISLANDS",RUSSIA,Kamchatka and Kuril Islands,Volcano,Definite Tsunami,6,33,2,,,Few (~1 to 50 people)
+1665,1933,10,2,15,29,-2,-81,ECUADOR,ECUADOR,West Coast of South America,Earthquake,Probable Tsunami,6.9,33,1.5,,,
+1664,1933,6,18,21,37,38.1,142.4,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20,,,,
+1663,1933,4,23,5,57,36.759,27.299,"COS, DODECANESE",GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,6.4,15,,Severe (~>$5 to $24 million),Some (~51 to 100 houses),Many (~101 to 1000 people)
+1662,1933,3,11,1,54,33.616,-117.966,S. CALIFORNIA,USA,West Coast of North and Central America,Meteorological,Very Doubtful Tsunami,6.3,16,-3,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+1659,1933,2,23,8,9,-20,-71,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.6,40,,,,
+1666,1933,12,25,,,12.77,124.05,E. SAMAR ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Very Doubtful Tsunami,,,1,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+1661,1933,3,2,17,31,39.224,144.622,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,8.4,35,3.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+3603,1933,5,19,,,6.9,0.6,GOLD COAST,TOGO,West Coast of Africa,Earthquake,Probable Tsunami,,,,,,
+4882,1933,12,12,14,11,-5,151,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,,Limited (<$1 million),,
+1675,1934,8,21,,,33.7,-118.2,S. CALIFORNIA,USA,West Coast of North and Central America,Meteorological,Event that only caused a seiche or disturbance in an inland river,,,3,Limited (<$1 million),Few (~1 to 50 houses),
+1677,1934,12,12,14,15,-4.2,152.2,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,,,,
+1674,1934,7,21,6,18,-11.139,165.503,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.2,35,,,,
+1676,1934,12,4,17,24,-19.5,-69.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,130,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+1673,1934,7,18,19,40,-11.907,166.731,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,35,,,,
+1671,1934,7,18,1,36,8,-82.5,COSTA RICA-PANAMA,PANAMA,West Coast of North and Central America,Earthquake,Probable Tsunami,7.7,60,1.5,Limited (<$1 million),Some (~51 to 100 houses),
+1669,1934,2,14,3,59,17.5,119,SOUTH CHINA SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.9,55,0.5,Limited (<$1 million),,
+1668,1934,1,15,8,43,26.773,86.76,"BIHAR-NEPAL, GANGES RIVER",NEPAL,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,8,35,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2771,1934,6,3,,,66,-18.25,ICELAND,ICELAND,Northeast Atlantic Ocean,Earthquake,Questionable Tsunami,,,,,,
+3308,1934,11,30,2,5,18.5,-105.5,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7,5,,,,
+3544,1934,4,7,3,,62.27,7.4,TAFJORD,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,,,,Few (~1 to 50 people)
+1687,1935,11,21,11,41,19.5,-155.5,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Meteorological,Very Doubtful Tsunami,,8,2,Limited (<$1 million),,
+1688,1935,11,25,10,3,5.5,94,CELEBES SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,,,,,
+1685,1935,10,18,0,11,40.7,144.3,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7,10,-2,,,
+1684,1935,10,12,16,45,39.9,143.7,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,10,-1,,,
+1678,1935,7,19,0,50,36.6,141.4,JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,,,,,
+1689,1935,12,28,2,35,0.001,98.25,SW. SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,7.9,33,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),
+1683,1935,9,20,1,46,-3.824,141.416,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,30,,,,
+1679,1935,5,30,21,32,29.5,66.8,QUETTA,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,7.5,,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+3580,1935,12,18,7,10,28.7,103.6,SICHUAN PROVINCE,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6,,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+1694,1936,10,27,15,50,58.6,-137.1,"LITUYA BAY, AK",USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,4,,,
+1695,1936,11,2,20,46,38.2,142.2,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,40,,,,
+1691,1936,7,13,11,12,-24.5,-70,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.3,60,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1696,1936,11,13,12,31,55.2,164,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.3,,2,,,
+1692,1936,8,23,21,12,6.1,94.7,OFF NORTHWEST COAST,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.3,,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1690,1936,4,1,2,9,4.5,126.5,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.7,60,2,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+3543,1936,9,13,,,61.87,6.851,LOEN,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,,Limited (<$1 million),,Some (~51 to 100 people)
+5362,1936,2,25,,,-0.5,166.9,"NAURU, OCEAN ISLAND",NAURU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Very Doubtful Tsunami,,,,,,
+5708,1936,,,,,-20.5,165,NEW CALEDONIA,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Probable Tsunami,,,,Limited (<$1 million),,
+1702,1937,9,22,,,58,165,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Unknown,Very Doubtful Tsunami,5.8,,,,,
+1703,1937,11,6,,,-3,132.3,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6,33,,,,
+1701,1937,9,21,21,2,56,162.5,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,5.7,33,1,,,
+1699,1937,8,20,11,59,14.5,121.5,W. LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.5,60,1,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1698,1937,5,29,,,-4.271,152.203,RABAUL,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,1.5,Limited (<$1 million),Few (~1 to 50 houses),Many (~101 to 1000 people)
+1719,1938,11,6,21,38,37,141.7,OFF FUKUSHIMA PREFECTURE,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20,-0.5,,,
+1705,1938,2,13,,,-3,132.3,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6,,-0.5,Limited (<$1 million),,
+1711,1938,5,23,7,18,36.7,141.4,JAPAN TRENCH,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,,,,,
+1727,1938,11,22,1,14,36.7,142.1,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10,-2.5,,,
+1725,1938,11,13,22,31,37,141.5,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6,60,-1.5,,,
+1728,1938,11,30,2,29,37,142.2,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7,50,-3,,,
+1706,1938,3,6,1,56,-5.1,153.1,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,,,,,,
+1722,1938,11,10,20,18,55.48,-158.37,"SHUMAGIN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.2,25,,,,
+1718,1938,11,6,8,53,37.5,141.8,OFF FUKUSHIMA PREFECTURE,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,0,-0.5,,,
+1717,1938,11,5,10,50,37.2,141.7,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,30,-0.5,,,
+1716,1938,11,5,8,43,37.1,141.7,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,30,-0.5,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1715,1938,6,10,9,53,25.321,125.115,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,35,0,Limited (<$1 million),,
+1708,1938,5,12,15,38,-6,147.8,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,,,Limited (<$1 million),Few (~1 to 50 houses),
+1704,1938,2,1,19,4,-5.25,130.5,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.5,,1.5,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+1714,1938,5,28,16,42,43.6,144.3,E. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1710,1938,5,19,17,8,-1,120,MAKASSAR STRAIT,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2463,1938,9,21,,,39.95,-74.12,NEW JERSEY COAST,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,,,,
+3638,1938,1,28,,,-1.408,29.2,NYAMURAGIRA,CONGO,Central Africa,Volcano,Event that only caused a seiche or disturbance in an inland river,,,,,,
+4238,1938,3,,,,62.333,6.967,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2,,,
+1737,1939,8,15,3,52,22.2,-79.1,SANTA CLARA,CUBA,Caribbean Sea,Earthquake,Questionable Tsunami,5.6,,,,,
+1735,1939,5,6,17,0,13.5,121.25,"TAYABAS BAY, SULU SEA",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,110,0.5,,,
+1732,1939,4,18,6,22,-27,-70.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,100,,,,
+1731,1939,3,20,3,22,32.3,132,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,20,0,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1738,1939,12,21,21,0,0,123,N. MOLUCCAS ISLANDS,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,8,150,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+1736,1939,6,22,19,19,5.18,-0.13,GOLD COAST,GHANA,West Coast of Africa,Earthquake,Questionable Tsunami,6.4,13,,,,
+1734,1939,5,1,5,58,40.1,139.5,NW. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,,0,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1730,1939,1,30,2,18,-7.08,155.386,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.7,35,1,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1729,1939,1,25,3,32,-36.25,-72.25,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,8.3,60,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1733,1939,4,30,2,55,-9.295,159.234,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.9,35,1.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2301,1939,12,26,23,57,39.77,39.533,SOUTH BLACK SEA,TURKEY,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,7.7,35,4,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+3404,1939,1,27,20,10,38.5,14.7,CALABRIAN ARC,ITALY,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,15,2,,,
+4258,1939,5,8,1,46,37.053,-24.427,AZORES,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,6.5,16,1,,,
+5694,1939,7,24,,,12.3,-61.63,KICK 'EM JENNY VOLCANO,GRENADA,Caribbean Sea,Volcano,Questionable Tsunami,,,,,,
+1743,1940,10,11,18,41,-41.5,-74.5,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7,33,,,,
+1742,1940,10,4,7,54,-22,-71,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.3,75,,,,
+1739,1940,5,24,16,33,-10.5,-77,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,8.2,60,1.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+1741,1940,8,1,15,8,44.2,139.5,W. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,10,1.5,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+3400,1940,1,15,13,19,38.067,13.467,NORTHERN SICILY,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,5.1,15,3,,,
+4240,1940,8,31,7,,65.883,13.167,NORTHERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2,Moderate (~$1 to $5 million),,
+1749,1941,12,6,21,24,8.5,-84,COSTA RICA-PANAMA,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,,-4,,,
+1745,1941,2,9,9,44,40.5,-125.25,NORTHERN CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,6.6,,,Limited (<$1 million),,
+1744,1941,1,13,16,27,-4.175,152.071,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,15,-2.5,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1748,1941,12,5,20,46,8.7,-83.2,COSTA RICA-PANAMA,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,,-3,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1746,1941,6,26,11,52,11.94,92.626,"ANDAMAN SEA, E. COAST INDIA",INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8,20,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1747,1941,11,18,16,46,32,132.1,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,10,0,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+3399,1941,3,16,18,48,38.3,12.2,CALABRIAN ARC,ITALY,Mediterranean Sea,Earthquake,Questionable Tsunami,,,2,,,
+3724,1941,11,25,18,3,37.417,-18.983,AZORES GIBRALTAR FRACTURE ZONE,ATLANTIC OCEAN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,8.3,,2,,,
+1751,1942,8,24,22,50,-15,-76,S. PERU,PERU,West Coast of South America,Earthquake and Landslide,Definite Tsunami,8.2,60,1,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1750,1942,5,22,10,30,4.6,-74.5,COLOMBIA,COLOMBIA,West Coast of South America,Earthquake,Very Doubtful Tsunami,5.8,130,1,Moderate (~$1 to $5 million),,
+5709,1942,5,,,,-20.6,165,NEW CALEDONIA,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Probable Tsunami,,,,,,
+1753,1943,6,13,5,12,41.2,143.3,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,20,-0.5,,,
+1752,1943,4,6,16,7,-30.75,-72,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,35,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1756,1944,12,7,4,35,34,137.1,OFF SOUTHEAST COAST KII PENINSULA,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,30,2.5,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2459,1944,9,14,,,38.933,-74.9,NEW JERSEY COAST,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,,,,
+2458,1944,,,,,40.3,-74,"CONEY ISLAND, NY",USA,"East Coast USA and Canada, St Pierre and Miquelon",Unknown,Very Doubtful Tsunami,,,,,,
+4227,1944,8,20,6,30,38.789,15.213,STROMBOLI ISLAND,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,4,Limited (<$1 million),Few (~1 to 50 houses),
+1760,1945,2,10,4,57,40.9,142.1,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,20,-1.5,,Few (~1 to 50 houses),Few (~1 to 50 people)
+1759,1945,1,12,18,38,34.7,137.2,TOKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,33,-0.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1761,1945,11,27,21,56,24.5,63,MAKRAN COAST,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,8,,,Extreme (~$25 million or more),,Very Many (~1001 or more people)
+1769,1946,11,13,6,,48.092,153.2,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Volcano,Probable Tsunami,,,,,,
+1768,1946,11,1,11,14,51.5,-174.5,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,7,40,,,,
+1767,1946,9,30,0,59,-14,-76.25,S. PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7,70,,Moderate (~$1 to $5 million),,
+1763,1946,6,23,17,13,49.87,-124.92,BRITISH COLUMBIA,CANADA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,7.3,,2,Limited (<$1 million),,
+1764,1946,8,2,19,18,-26.5,-70.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.9,60,9,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+1766,1946,8,8,13,28,19.5,-69.5,NORTHEASTERN COAST,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Definite Tsunami,7.5,15,,,,Some (~51 to 100 people)
+1762,1946,4,1,12,29,53.492,-162.832,"UNIMAK ISLAND, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,8.6,15,4,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+1765,1946,8,4,17,51,19.25,-69,NORTHEASTERN COAST,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Definite Tsunami,7.9,15,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+1770,1946,12,20,19,19,33,135.6,HONSHU: S COAST,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,20,2.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1776,1947,11,4,0,9,43.8,141,W. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,33,1,Limited (<$1 million),,
+1774,1947,5,17,7,6,-38.42,178.88,OFF COAST OF NORTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,12,,,,
+1772,1947,3,25,20,32,-38.85,178.87,OFF COAST OF NORTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Probable Tsunami,7.1,12,3,Limited (<$1 million),Few (~1 to 50 houses),
+1775,1947,10,6,19,55,37,22,"PELOPONNESUS, GREECE",GREECE,Mediterranean Sea,Earthquake and Landslide,Probable Tsunami,6.9,28,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1783,1948,6,1,18,58,6,95,OFF NORTHWEST COAST,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.3,,0,,,
+1786,1948,12,26,7,12,-22.5,-69,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7,100,0,,,
+1781,1948,4,17,16,11,33.1,135.6,TOKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,40,-1,,,
+1785,1948,12,3,0,22,22,-106,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.9,,1.5,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+1784,1948,9,8,15,9,-21,-174,TONGA TRENCH,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,33,1.5,,,
+1782,1948,4,22,10,42,38.532,20.427,IONIAN SEA,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.5,15,4,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1779,1948,2,9,12,58,35.5,27.2,"DODECANESE, KARPATHOS IS.",GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.1,40,4,Limited (<$1 million),,
+1777,1948,1,24,17,46,10.5,122,SULU SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,8.3,33,1.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+5659,1948,5,23,9,13,37.2,121.8,SHANDONG PROVINCE,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,6,,,Limited (<$1 million),Few (~1 to 50 houses),
+1797,1949,9,5,2,54,17,121.5,NORTHERN LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.4,80,-4,,,
+1799,1949,10,19,21,0,-5.5,154,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,60,-1,,,
+1793,1949,5,9,13,36,5,95,BANDA ACEH,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.7,,,,,
+1788,1949,1,27,11,0,54.6,163.5,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.9,150,,,,
+1801,1949,12,17,15,7,-54,-71,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.8,33,,Limited (<$1 million),,Few (~1 to 50 people)
+1795,1949,8,22,4,1,53.6,-133.3,BRITISH COLUMBIA,CANADA,West Coast of North and Central America,Earthquake and Landslide,Definite Tsunami,8.1,25,,,,
+1787,1949,7,23,15,3,38.718,26.482,"CHIOS ISLAND, AEGEAN ISLANDS",GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,15,2,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1792,1949,4,20,3,29,-38,-73.5,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,7.3,70,,,,
+1790,1949,4,13,19,56,47.167,-122.617,"PUGET SOUND, WA",USA,West Coast of North and Central America,Earthquake and Landslide,Probable Tsunami,7,70,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+1802,1949,12,29,3,3,17,121.63,E. LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,7.2,33,1.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+3405,1949,2,9,13,28,38.2,20,WEST COAST OF GREECE,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,,15,,,,
+5202,1949,12,17,6,53,-54,-71,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.8,33,,Limited (<$1 million),,Few (~1 to 50 people)
+1803,1950,1,30,0,56,-53.5,-71.5,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7,33,,,,Few (~1 to 50 people)
+1811,1950,11,8,2,18,-10,159.5,SOLOMON SEA,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,33,,,,
+1810,1950,10,23,16,13,14.31,-91.917,GUATEMALA,GUATEMALA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,65,-1,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),
+1804,1950,3,14,18,10,-37.8,177.2,N. NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,5.8,,0,,,
+1813,1950,12,14,14,15,16.48,-98.22,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,50,,Severe (~>$5 to $24 million),,
+1812,1950,12,10,2,50,-14.25,-77.75,S. PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7,80,0,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1808,1950,10,5,16,9,11,-85,COSTA RICA-NICARAGUA,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,33,-2,Limited (<$1 million),,
+1806,1950,8,15,14,9,28.5,96.5,INDIA-CHINA,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,8.6,33,,Severe (~>$5 to $24 million),,Very Many (~1001 or more people)
+1805,1950,8,3,,,10.5,-68,EL TOCUYO,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,6.8,,,,,
+1809,1950,10,8,3,23,-3.8,128.3,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.6,,2,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4256,1950,10,8,,,63.433,10.383,MID-NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5579,1950,4,30,23,49,6.5,-83,OFF COAST,PANAMA,West Coast of North and Central America,Earthquake,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5660,1950,12,2,19,51,-18.25,167.5,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.8,60,,,,
+1816,1951,12,22,,,-9.02,157.95,KAVACHI,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,,,,
+1815,1951,8,21,10,57,19.5,-156,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,6.9,12,0.5,Limited (<$1 million),,
+3145,1951,2,22,1,45,-3.252,142.238,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.1,25,,Limited (<$1 million),,
+3310,1951,10,22,5,43,23.8,121.7,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,21,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Some (~51 to 100 people)
+3383,1951,8,3,0,23,13,-87.5,COSIGUINA VOLCANO,NICARAGUA,West Coast of North and Central America,Earthquake and Landslide,Very Doubtful Tsunami,6,100,,Severe (~>$5 to $24 million),Some (~51 to 100 houses),
+3571,1951,12,21,8,37,26.7,100,CHINA: GANSU AND SHANXI PROVINCES,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.3,,,,,
+1825,1952,9,23,4,20,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,-1,,,
+1824,1952,9,16,2,50,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,-1,,,
+1827,1952,9,26,3,33,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,-1,,,
+1826,1952,9,24,3,23,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,,Limited (<$1 million),,Few (~1 to 50 people)
+1823,1952,7,13,11,58,-18.5,169.25,OFF EAST COAST OF VANUATU,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.8,260,,,,
+1822,1952,5,13,19,32,10.3,-85.3,COSTA RICA-PANAMA,COSTA RICA,West Coast of North and Central America,Earthquake,Questionable Tsunami,6.9,64,-3,,,
+1819,1952,3,17,3,58,19.1,-155,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,4.5,33,0,,,
+1820,1952,3,19,10,57,9.5,127.25,"E. OF MINDANO, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.8,25,,Limited (<$1 million),,
+1818,1952,3,9,17,4,41.7,143.6,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,20,-2,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+1817,1952,3,4,1,22,42.15,143.85,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,8.1,45,2,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1829,1952,11,4,16,58,52.755,160.057,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,9,22,4,Moderate (~$1 to $5 million),,Very Many (~1001 or more people)
+2460,1952,5,6,,,43.1,-82.4,"LAKE HURON, MI",USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Event that only caused a seiche or disturbance in an inland river,,,,,,
+4239,1952,1,9,8,,64.883,12.417,MID-NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2,,,
+5738,1952,,,,,70.3,-53,"SOUTH COAST OF NUUSSUAQ, GREENLAND",GREENLAND,Northwest Atlantic Ocean,Landslide,Probable Tsunami,,,,Limited (<$1 million),,Few (~1 to 50 people)
+1838,1953,6,27,,,-2.4,147.4,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,1,Limited (<$1 million),,
+1833,1953,3,11,,,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,-1,,,
+1835,1953,3,17,13,4,50,156.5,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Probable Tsunami,5.8,,,,,
+1831,1953,2,15,,,-12,-77.5,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,5.5,,,,,
+1837,1953,5,31,19,58,19.8,-70.7,PUERTO PLATA,DOMINICAN REPUBLIC,Caribbean Sea,Earthquake,Questionable Tsunami,7.2,33,,,,
+1842,1953,12,12,17,31,-3.4,-80.6,N. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.4,30,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1841,1953,11,25,17,48,34,141.7,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7.4,60,1.5,Limited (<$1 million),,Few (~1 to 50 people)
+1836,1953,5,6,17,16,-36.5,-72.5,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.6,60,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+1840,1953,9,14,0,26,-18.3,178.2,FIJI ISLANDS,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,6.4,33,1,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2336,1953,4,23,16,24,-4.449,152.868,"RABAUL, NEW BRITAIN",PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,7.4,35,0,Limited (<$1 million),,
+3396,1953,9,10,4,5,35,32.5,LEVANTIAN SEA,CYPRUS,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3398,1953,8,12,9,23,38.3,20.8,IONIAN SEA,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7.2,,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5566,1953,3,25,,,32.1,139.85,MYOJINSHO SUBMARINE VOLCANO,JAPAN,Japan,Volcano,Definite Tsunami,,,-1,,,
+1846,1954,10,,,,67.47,-32.283,"APUTITEQ POINT, GREENLAND",GREENLAND,Northwest Atlantic Ocean,Unknown,Questionable Tsunami,,,,,,
+1847,1954,11,18,20,44,38.9,142.2,"MIYAGI, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.1,30,-1,,,
+2461,1954,6,26,,,41.7,-86.883,"MICHIGAN CITY, IN (LAKE MICHIGAN)",USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Event that only caused a seiche or disturbance in an inland river,,,,,,Few (~1 to 50 people)
+3395,1954,2,,,,38.789,15.213,STROMBOLI ISLAND,ITALY,Mediterranean Sea,Volcano,Definite Tsunami,,,4,,,
+3394,1954,9,9,1,4,36.283,1.467,SEA OF ALBORAN,ALGERIA,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.7,,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1853,1955,10,10,8,57,-5.1,152.924,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,35,,,,
+1852,1955,9,8,3,27,-6.9,155.7,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.5,33,,,,
+1850,1955,5,17,14,49,6.5,94,LITTLE NICOBAR ISLAND,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,7.3,,,,,
+1848,1955,1,18,,,11.46,-69.57,OFF THE COAST NEAR LA VELA,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,5.5,,,Limited (<$1 million),,
+1849,1955,4,19,20,24,-30,-72,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.1,30,1,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+3393,1955,4,19,16,47,39.4,23.1,VOLOS GULF,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.2,,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3573,1955,9,23,15,6,26.6,101.8,"JINSHA RIVER, YUNNAN PROVINCE",CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.8,10,,,,
+1856,1956,3,30,6,11,55.978,160.587,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Volcano,Questionable Tsunami,,,,,,
+1854,1956,1,8,20,54,-19,-70,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.1,55,,Limited (<$1 million),,Few (~1 to 50 people)
+1865,1956,12,18,2,31,-25.5,-71,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7,33,,,,
+1855,1956,3,5,23,29,44.3,144.1,NE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,20,-2,,,
+1864,1956,11,2,16,4,39.5,23,NORTH AEGEAN,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,5.8,,2,,,
+1859,1956,7,9,3,11,36.9,26,CYCLADES,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.8,20,5,Severe (~>$5 to $24 million),,Some (~51 to 100 people)
+3392,1956,7,9,3,24,36.8,25.5,"AMORGOS ISLAND, AEGEAN ISLANDS",GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.8,,,,,
+5540,1956,3,2,22,43,-38.9,175.8,"LAKE TAUPO, NORTH ISLAND",NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Event that only caused a seiche or disturbance in an inland river,5.3,,,,,
+1871,1957,7,29,17,15,-23.5,-71.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7,33,,,,
+1875,1957,11,,,,-8.57,160.72,"MALAITA ISLAND, SOLOMON ISLANDS",SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Questionable Tsunami,,,,,,
+1873,1957,10,26,14,16,-2,116,MAKASSAR STRAIT,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,6,,0,,,
+1872,1957,9,26,,,-8.2,107.3,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,5.5,,,,,
+1870,1957,7,28,8,40,16.5,-99.1,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.9,25,0.5,Extreme (~$25 million or more),Many (~101 to 1000 houses),Some (~51 to 100 people)
+1869,1957,6,22,23,50,-1.5,137,NW. IRIAN JAYA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.3,33,,,,
+1867,1957,3,9,14,22,51.292,-175.629,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.6,33,3,Severe (~>$5 to $24 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1882,1958,10,7,10,0,-16.829,168.536,KUWAE VOLCANO,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Very Doubtful Tsunami,,,0,,,
+1885,1958,11,12,20,23,44.2,148.8,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7,29,-1,,,
+1883,1958,11,4,22,54,-50,-115,EAST PACIFIC RISE,PACIFIC OCEAN,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.1,,,,,
+1881,1958,9,17,12,24,48.6,156.1,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,5,40,-1,,,
+1879,1958,4,21,22,37,-4.5,104,"BENGKULU, SUMATRA",INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,200,0.5,,,
+1884,1958,11,6,22,58,44.53,148.54,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,40,2.5,Moderate (~$1 to $5 million),,
+1880,1958,7,10,6,15,58.37,-136.665,"SE. ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.8,35,5,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+1877,1958,1,19,14,7,1.5,-79.5,COLOMBIA-ECUADOR,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,7.6,60,2,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Many (~101 to 1000 people)
+3574,1958,2,7,23,23,31.5,105,SICHUAN PROVINCE,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,,,,,
+1888,1959,2,23,,,40.63,22.97,"GRECIAN ARCHIPELAGO, CRETE",GREECE,Mediterranean Sea,Unknown,Very Doubtful Tsunami,,,3,,,
+1893,1959,10,26,7,35,37.5,143.2,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,10,-4,,,
+1889,1959,4,9,12,24,44.3,149,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,5,40,-2,,,
+1887,1959,2,7,9,36,-4,-81.5,N. PERU,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,19,-2,Limited (<$1 million),,
+1886,1959,1,22,5,10,37.5,142.2,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.8,40,-2,,,
+1892,1959,8,17,21,4,-7.5,156,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,33,,Severe (~>$5 to $24 million),,
+1890,1959,5,4,7,15,52.5,159.5,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.2,60,1,,,
+2371,1959,8,18,6,37,44.712,-111.215,"HEGBEN LAKE, MONTANA",USA,West Coast of North and Central America,Earthquake and Landslide,Event that only caused a seiche or disturbance in an inland river,7.5,5,,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+4250,1959,5,7,,,69.817,20.917,NORTHERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4,Limited (<$1 million),,Few (~1 to 50 people)
+1905,1960,7,29,17,31,40.3,142.5,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,30,-3,,,
+1906,1960,11,1,8,45,-38.5,-75.1,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.4,55,,,,
+1904,1960,6,11,15,14,-9.4,152.3,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.6,33,0,,,
+1899,1960,3,23,0,23,39.4,143.7,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,20,-2.5,,,
+1898,1960,3,20,17,7,39.8,143.4,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,20,-2,Limited (<$1 million),,
+1901,1960,5,21,10,2,-37.872,-73.243,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,35,-1,Limited (<$1 million),,Few (~1 to 50 people)
+1897,1960,2,29,23,40,30.5,-9.5,MOROCCO,MOROCCO,West Coast of Africa,Earthquake,Very Doubtful Tsunami,6.8,,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+1896,1960,1,13,15,40,-15.75,-72.75,S. PERU,PERU,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.8,160,3,Limited (<$1 million),,
+1907,1960,11,20,22,1,-6.8,-80.7,N. PERU,PERU,West Coast of South America,Earthquake,Probable Tsunami,6.8,93,4,Limited (<$1 million),,Some (~51 to 100 people)
+1902,1960,5,22,19,11,-38.143,-73.407,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,9.5,33,4,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+1915,1961,3,18,,,-9.43,159.95,"HONIARA, GUADALCANAL",SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,,,,Limited (<$1 million),Few (~1 to 50 houses),
+1917,1961,5,23,2,45,36.7,28.5,ASIA MINOR,TURKEY,Mediterranean Sea,Earthquake,Probable Tsunami,6.5,,,,,
+1926,1961,10,18,16,51,-36.7,-73,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.5,15,,Limited (<$1 million),,Few (~1 to 50 people)
+1924,1961,8,11,15,51,42.9,145.6,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,80,-4,,,
+1923,1961,8,1,5,39,-9.849,160.614,SOLOMON SEA,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,6.4,25,,,,
+1921,1961,7,23,21,51,-18.421,168.411,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.3,45,-0.5,Limited (<$1 million),,
+1920,1961,7,18,14,4,29.6,131.8,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,60,-3,,,
+1913,1961,2,12,21,53,43.2,147.9,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,80,-0.5,,,
+1912,1961,1,16,12,12,36.2,141.9,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.5,20,-2,,,
+1911,1961,1,16,11,19,36,141.9,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.4,20,-2,,,
+1910,1961,1,16,7,20,36,142.3,"KASHIMA, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.8,40,-2,,,
+1927,1961,11,15,7,17,42.7,145.7,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,60,-3.5,,,
+1914,1961,2,26,18,10,31.6,131.8,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.6,74,-0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2385,1961,6,16,10,31,8.9,-73.4,NORTHEASTERN,COLOMBIA,Caribbean Sea,Questionable Earthquake,Event that only caused a seiche or disturbance in an inland river,6.5,120,,,,
+1930,1962,4,23,5,58,42.2,143.9,SE. HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,60,-3.5,,,
+1933,1962,5,21,12,21,41.8,142.4,OFF COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Questionable Tsunami,5.7,60,-2,,,
+1929,1962,4,12,0,52,38.073,142.741,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,25,-2,,,
+1928,1962,3,12,11,40,8.008,-82.757,COSTA RICA-PANAMA,PANAMA,West Coast of North and Central America,Earthquake,Probable Tsunami,6.8,35,,Limited (<$1 million),,
+1937,1962,12,21,8,42,52.47,-168.54,"FOX ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,6.5,33,,,,
+1932,1962,5,19,14,58,17.2,-99.5,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.2,33,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1931,1962,5,11,14,11,17.2,-99.6,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7,40,0,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+3391,1962,5,28,22,57,39.8,25,NORTH AEGEAN SEA,GREECE,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,4.5,,,,,
+5631,1962,1,11,5,5,43.3,17.1,DALMATIAN COASTS,CROATIA,Mediterranean Sea,Earthquake,Probable Tsunami,6.1,33,,,,
+1942,1963,3,30,,,-8.342,115.508,LESSER SUNDA: BALI: AGUNG VOLCANO,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Questionable Tsunami,,,2,,,Very Many (~1001 or more people)
+1949,1963,12,16,1,51,-6.4,105.4,JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.6,64,0,Limited (<$1 million),,
+1946,1963,10,12,11,27,44.426,149.272,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,48,-2,,,
+1950,1963,12,18,0,30,-24.8,-176.6,TONGA TRENCH,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.2,46,0.5,,,
+1948,1963,10,20,0,53,44.772,150.563,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.9,28,3,,,
+1947,1963,10,13,5,17,44.772,149.798,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.5,13,2.5,,,
+1945,1963,9,24,16,30,-10.385,-78.022,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7,75,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1940,1963,2,13,8,50,24.4,122.1,E. TAIWAN-RYUKYU ISLANDS,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,47,-2,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1939,1963,2,7,19,28,38.31,22.02,CORINTH GULF,GREECE,Mediterranean Sea,Landslide,Definite Tsunami,,,5,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+4290,1963,9,18,,,40.75,29,MARMARA SEA,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.1,,3,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5453,1963,3,28,10,,54,-132.25,"GRAHAM ISLAND, BRITISH COLUMBIA",CANADA,West Coast of North and Central America,Unknown,Probable Tsunami,,,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+5569,1963,10,9,21,39,46.267,12.329,"VAJONT DAM, VAJONT RIVER",ITALY,Mediterranean Sea,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+1960,1964,7,24,8,12,47.159,153.876,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,15,-2,,,
+1957,1964,5,7,7,58,40.3,139,NW. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,30,0,Moderate (~$1 to $5 million),,
+1962,1964,12,10,15,11,40.4,138.9,NW. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,40,-3,,,
+1961,1964,11,17,8,15,-5.7,150.7,NEW BRITAIN,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.6,45,,Limited (<$1 million),,
+1956,1964,4,2,1,11,5.8,95.4,OFF NORTHWEST COAST OF INDONESIA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Probable Tsunami,7,100,0,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),
+1959,1964,6,16,4,1,38.65,139.2,NW. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,40,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1954,1964,3,28,3,36,61.017,-147.648,"PRINCE WILLIAM SOUND, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,9.2,33,3.5,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+2368,1964,5,19,0,0,40.8,-73.1,"LONG ISLAND, NY",USA,"East Coast USA and Canada, St Pierre and Miquelon",Landslide,Probable Tsunami,,0,,,,
+5422,1964,5,7,20,13,40.4,139,NW. HONSHU ISLAND,JAPAN,Japan,Earthquake,Probable Tsunami,6.6,,-3,,,
+1974,1965,8,13,12,40,-15.9,166.8,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.3,33,1,Limited (<$1 million),Few (~1 to 50 houses),
+1979,1965,10,3,16,14,-42.9,-75.13,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.5,28,,,,
+1973,1965,8,11,22,31,-15.8,167.2,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,13,2.5,Moderate (~$1 to $5 million),,
+1971,1965,7,2,20,58,53.03,-167.55,"FOX ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.5,40,-2,Limited (<$1 million),,
+1970,1965,6,11,3,34,44.7,148.7,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,,-3,,,
+1966,1965,3,22,22,56,-31.81,-71.26,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6,58,,,,
+1965,1965,2,23,22,11,-25.67,-70.63,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7,36,,,,
+1975,1965,8,23,19,46,16.3,-95.8,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.8,,,Limited (<$1 million),,Few (~1 to 50 people)
+1967,1965,3,30,2,27,50.32,177.93,"RAT ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.6,20,-1,,,
+1964,1965,2,4,5,1,51.29,178.55,"RAT ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8.7,36,2.5,Limited (<$1 million),,
+1972,1965,7,6,3,18,38.267,22.3,NORTH CORINTH GULF,GREECE,Mediterranean Sea,Earthquake and Landslide,Very Doubtful Tsunami,6.3,18,2,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+1963,1965,1,24,0,11,-2.4,126.1,SANANA ISLAND,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,6,2,Moderate (~$1 to $5 million),Very Many (~1001 or more houses),Some (~51 to 100 people)
+1977,1965,9,28,,,14.002,120.993,"TAAL, LUZON ISLAND",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Definite Tsunami,,,,Limited (<$1 million),Few (~1 to 50 houses),Many (~101 to 1000 people)
+3042,1965,3,9,17,57,39.4,24,AEGEAN SEA,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.3,18,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5470,1965,2,19,,,-41.755,-72.396,SOUTHERN CHILE,CHILE,West Coast of South America,Volcano and Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5695,1965,10,24,,,12.3,-61.63,KICK 'EM JENNY VOLCANO,GRENADA,Caribbean Sea,Volcano,Very Doubtful Tsunami,,,,,,
+1983,1966,11,28,,,-10.28,166.23,"MOHAWK BAY, SANTA CRUZ ISLANDS",SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Very Doubtful Tsunami,,,-0.5,,,
+1984,1966,12,28,8,18,-25.5,-70.7,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.8,47,0.5,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+1982,1966,10,17,21,41,-10.748,-78.638,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.1,38,1.5,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+1981,1966,6,15,0,59,-10.343,160.883,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.1,31,1,,,
+1980,1966,3,12,16,31,24.1,122.6,E. TAIWAN-RYUKYU ISLANDS,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.6,48,0,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2425,1966,12,31,18,23,-11.893,166.445,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,83,1,,,
+2302,1966,7,12,18,53,44.75,37,BLACK SEA,RUSSIA,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.5,,1,,,
+3033,1966,12,31,22,15,-12.334,166.684,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,23,0,,,
+4242,1966,5,8,,,59.6,10.633,EASTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3,,,
+5478,1966,,,,,-10.38,165.8,"TINAKULA, SANTA CRUZ ISLANDS",SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Probable Tsunami,,,,,,
+1992,1967,12,4,,,-63,-60.5,"TELEPHONE BAY, DECEPCION ISLAND",ANTARCTICA,West Coast of South America,Volcano,Very Doubtful Tsunami,,,0,,,
+1994,1967,12,21,2,25,-21.7,-69.5,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Probable Tsunami,7.5,33,0,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1986,1967,3,19,4,1,45.53,151.11,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,7,38,,,,
+1991,1967,11,15,21,31,-28.78,-71.19,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,5.9,35,,,,
+1990,1967,9,3,,,-10.6,-79.8,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Questionable Tsunami,7,40,-1.5,,,
+1989,1967,8,13,22,15,-4.4,152.5,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.4,30,,,,
+1988,1967,4,12,4,51,5.5,97.3,NORTHEAST SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,6.1,100,1.5,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+1987,1967,4,11,5,9,-3.7,119.3,MAKASSAR STRAIT,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,5.5,33,1,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Some (~51 to 100 people)
+3349,1967,7,29,23,59,10.6,-67.3,CARACAS,VENEZUELA,Caribbean Sea,Earthquake,Definite Tsunami,6.5,10,,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+5644,1967,10,,,,59.621,-151.106,"GREWINGK, AK",USA,Alaska (including Aleutian Islands),Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+1996,1968,1,29,10,19,43.586,146.701,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.3,40,-1,,,
+1998,1968,4,1,0,42,32.3,132.5,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,30,1,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+1997,1968,2,19,22,45,39.368,24.957,"LEMNOS ISLAND, NORTH AEGEAN SEA",GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,7.2,15,3,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2000,1968,5,16,0,48,40.8,143.2,OFF EAST COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,8.2,7,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Some (~51 to 100 people)
+2004,1968,8,5,7,17,33.3,132.2,SEIKAIDO-NANKAIDO,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,6.5,10,0,,,
+2010,1968,9,25,,,15.6,-92.6,S. MEXICO-GUATEMALA-NICARAGUA,MEXICO,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,7,138,1,,,Few (~1 to 50 people)
+2009,1968,9,20,6,9,10.5,-62.6,CARUPANO,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,6.2,107,,,,
+2006,1968,8,10,2,7,1.4,126.2,N. MOLUCCAS ISLANDS,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,25,1,Limited (<$1 million),,
+2002,1968,7,25,7,23,-30.8,-178.4,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.3,60,,,,
+2001,1968,6,12,13,41,39.4,143.1,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,44,0,,,
+2438,1968,5,16,10,39,41.5,142.7,OFF COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,33,-0.5,,,
+2003,1968,8,1,20,19,16.5,122.2,E. LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,36,,Severe (~>$5 to $24 million),Few (~1 to 50 houses),Many (~101 to 1000 people)
+2007,1968,8,14,22,14,0.2,119.8,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.8,23,2.5,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+2878,1968,5,4,,,-27.15,-109.45,EASTER ISLAND REGION,CHILE,West Coast of South America,Unknown,Probable Tsunami,,,,Limited (<$1 million),,
+3297,1968,9,3,8,19,41.8,32.3,BLACK SEA,TURKEY,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,6.6,38,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+3798,1968,4,18,19,38,44.08,8,LIGURIA-COTE D'AZUR,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,4.6,7,2,,,
+2014,1969,8,2,4,30,-6.6,146.9,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,5.4,17,-1,,,
+2013,1969,4,21,7,19,32.2,132.1,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,41,-3,,,
+2018,1969,12,25,21,32,15.8,-59.7,GRAND BOURG,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,7.2,7,,,,
+2016,1969,11,22,23,9,57.7,163.6,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.7,51,3,Limited (<$1 million),,
+2015,1969,8,11,21,26,43.6,147.9,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.2,30,2,Limited (<$1 million),,
+2012,1969,2,28,2,40,36.017,-10.95,PORTUGAL,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,7.8,22,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2011,1969,2,23,0,36,-3.1,118.9,MAKASSAR STRAIT,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.9,13,2,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2872,1969,3,21,,,19.077,122.202,LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Volcano,Questionable Tsunami,,,,,,Few (~1 to 50 people)
+3350,1969,4,12,5,44,59.4,13.5,NORSALV RIVER,SWEDEN,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+3646,1969,3,31,,,27.7,34,GULF OF SUEZ,EGYPT,Red Sea and Persian Gulf,Earthquake,Probable Tsunami,7,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2303,1970,12,4,1,59,43.84,39.34,BLACK SEA,RUSSIA,Black Sea and Caspian Sea,Earthquake,Definite Tsunami,5.1,7,2,,,
+2030,1970,11,28,11,8,-20.94,-69.81,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6,33,,,,
+2025,1970,7,25,22,41,32.2,131.7,SEIKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,7,34,,Limited (<$1 million),,
+2023,1970,6,19,10,56,-22.28,-70.55,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.4,44,,,,
+2022,1970,6,14,,,-52,-73.8,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6,10,,,,
+2026,1970,9,28,19,1,-44.64,173.62,NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,5.1,,,,,
+2027,1970,9,30,9,52,20.6,122,PHILIPPINE TRENCH,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,5.3,33,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),
+2021,1970,5,31,20,23,-9.2,-78.8,N. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.9,43,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+2020,1970,4,7,5,34,15.78,121.71,PHILIPPINE SEA,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.3,40,1,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2019,1970,1,10,12,7,6.8,126.7,PHILIPPINE TRENCH,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,73,,,,
+2028,1970,10,31,17,53,-4.907,145.471,PAPUA NEW GUINEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7.3,8,0.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3073,1970,5,14,18,12,43,47.1,CASPIAN SEA,RUSSIA,Black Sea and Caspian Sea,Earthquake,Probable Tsunami,6.5,44,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Many (~101 to 1000 people)
+3309,1970,3,11,22,38,57.5,-153.9,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6,29,,Limited (<$1 million),,
+2043,1971,9,6,20,,-10.38,165.8,"TINAKULA, SANTA CRUZ ISLANDS",SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,,,,
+2041,1971,9,27,19,1,46.4,141.1,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6,21,-4,,,
+2039,1971,9,8,16,59,46.3,140.9,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.2,16,-3,,,
+2042,1971,11,6,22,0,51.5,179.1,"RAT ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Questionable Tsunami,5.7,21,,,,
+2040,1971,9,25,4,36,-6.5,146.6,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Questionable Tsunami,7,115,0.5,Limited (<$1 million),,
+2038,1971,9,8,11,48,46.4,141.1,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,6,-3,,,
+2430,1971,9,6,13,37,46.7,141.4,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.5,29,,,,
+2036,1971,8,2,7,24,41.4,143.5,JAPAN TRENCH,JAPAN,Japan,Earthquake,Definite Tsunami,7.3,51,-0.5,Limited (<$1 million),,
+2031,1971,5,2,6,8,51.228,-177.173,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.1,30,-3,,,
+2044,1971,12,15,8,29,56,163.3,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.8,33,,,,
+2431,1971,9,5,18,35,46.5,141.2,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,9,1,Limited (<$1 million),,
+2035,1971,7,26,1,23,-4.9,153.2,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,48,1.5,Moderate (~$1 to $5 million),,
+2033,1971,7,9,3,3,-32.5,-71.2,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.8,58,0,Extreme (~$25 million or more),Many (~101 to 1000 houses),Some (~51 to 100 people)
+2034,1971,7,14,6,11,-5.5,153.9,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,47,1,Limited (<$1 million),,Few (~1 to 50 people)
+5535,1971,3,19,,,-11.116,-76.5,CHUNGAR,PERU,West Coast of South America,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Many (~101 to 1000 people)
+2052,1972,8,26,8,15,-6.7,147,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Landslide,Probable Tsunami,,,,Limited (<$1 million),,
+2054,1972,10,9,,,-5.52,148.121,"RITTER ISLAND, PAPUA NEW GUINEA",PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Questionable Tsunami,,,,,,
+2057,1972,12,29,4,51,-30.6,-71,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,5.4,60,,,,
+2051,1972,8,17,23,44,-6,152.9,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,10,,,,
+2048,1972,6,8,18,53,-30.5,-71.8,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Questionable Tsunami,6.6,39,,,,
+2056,1972,12,4,10,16,33.3,140.7,CHICHI JIMA,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,66,-1,Limited (<$1 million),,
+2055,1972,12,2,0,19,6.5,126.6,"MINDANAO ISLAND, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.4,33,,Limited (<$1 million),,
+2049,1972,7,30,21,45,56.82,-135.685,"SE. ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.6,25,-2,Limited (<$1 million),,
+2046,1972,2,29,9,22,33.3,140.8,EAST OFF HACHIJO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,56,0.5,,,
+2045,1972,1,25,2,6,22.5,122.3,E. TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33,-2,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2062,1973,10,5,5,47,-32.5,-71.5,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,14,-1,,,
+2061,1973,6,24,2,43,43.3,146.4,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,50,,Limited (<$1 million),,
+2060,1973,6,17,3,55,43.2,145.8,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,48,1,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+2059,1973,2,28,6,37,50.5,156.6,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,27,0.5,,,
+2058,1973,1,30,21,1,18.48,-103,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,43,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Some (~51 to 100 people)
+3226,1973,3,17,8,30,13.4,122.8,QUEZON,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33,,Limited (<$1 million),,Few (~1 to 50 people)
+3506,1973,6,26,22,32,43.2,146.6,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,,,,,
+2069,1974,10,17,,,-5.52,148.121,"RITTER ISLAND, PAPUA NEW GUINEA",PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,70,,,,
+2064,1974,2,1,3,12,-7.4,155.6,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,40,2,Moderate (~$1 to $5 million),,
+2067,1974,9,27,5,47,43.2,146.7,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.7,43,-1,,,
+2066,1974,8,18,10,44,-38.5,-73.4,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,7.1,36,,,,
+2063,1974,1,31,23,30,-7.5,155.9,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,34,1,,,
+2071,1974,12,28,12,11,35.1,72.9,PAKISTAN,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,6.2,22,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+2068,1974,10,3,14,21,-12.27,-77.79,CENTRAL PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.1,13,1,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+2065,1974,5,8,23,33,34.6,138.7,TOKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,2,-2.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5568,1974,10,17,19,5,54,-128.7,"KITIMAT INLET, BRITISH COLOMBIA",CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,,,,
+2075,1975,6,10,13,47,43.024,147.734,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7,15,2,Moderate (~$1 to $5 million),,
+2074,1975,3,13,15,26,-29.9,-71.3,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Very Doubtful Tsunami,6.9,4,,Limited (<$1 million),,Few (~1 to 50 people)
+2081,1975,12,26,15,56,-16.265,-172.467,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,33,,,,
+2076,1975,7,20,14,37,-6.59,155.054,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,49,1,Severe (~>$5 to $24 million),Some (~51 to 100 houses),
+2072,1975,1,15,9,42,-5,130,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,5.9,33,,Limited (<$1 million),Some (~51 to 100 houses),
+2080,1975,11,29,14,47,19.451,-155.033,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake and Landslide,Definite Tsunami,7.7,2,3,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2079,1975,10,31,8,28,12.54,125.993,PHILIPPINE TRENCH,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,50,-1.5,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2567,1975,5,26,9,11,35.997,-17.649,AZORES GIBRALTAR FRACTURE ZONE,ATLANTIC OCEAN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,7.7,33,,Limited (<$1 million),,
+2879,1975,4,27,18,5,53.98,-128.68,"KITIMAT INLET, BRITISH COLUMBIA",CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,,Moderate (~$1 to $5 million),,
+5661,1975,12,16,21,1,-18.672,178.464,FIJI ISLANDS,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Probable Tsunami,4.9,33,,,,
+2084,1976,1,21,10,5,44.915,149.123,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7,41,-2.5,,,
+2085,1976,2,4,9,1,15.324,-89.101,GUATEMALA,GUATEMALA,Caribbean Sea,Earthquake,Definite Tsunami,7.5,5,,Extreme (~$25 million or more),,Very Many (~1001 or more people)
+2083,1976,1,14,16,47,-28.427,-177.657,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8,33,,,,
+2086,1976,8,16,16,11,6.292,124.09,MORO GULF,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,8,33,2.5,Extreme (~$25 million or more),,Very Many (~1001 or more people)
+5669,1976,7,11,16,54,7.4,-78.1,PANAMA,PANAMA,West Coast of North and Central America,Earthquake,Very Doubtful Tsunami,6.7,22,,Limited (<$1 million),,Few (~1 to 50 people)
+2089,1977,4,20,23,13,-9.828,163.323,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,33,-1,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+2095,1977,10,10,11,53,-25.856,-175.406,TONGA TRENCH,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,7.2,33,-3,,,
+2094,1977,8,28,20,10,-1.081,146.23,ADMIRALTY ISLANDS,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,5.5,33,-0.5,,,
+2091,1977,6,22,12,8,-22.878,-175.9,TONGA TRENCH,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.2,65,,,,
+2090,1977,4,21,4,24,-9.965,160.731,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.1,33,-1.5,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+2088,1977,4,2,7,15,-16.696,-172.095,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,33,-2,Limited (<$1 million),,
+2092,1977,8,19,6,8,-11.085,118.464,SUNDA ISLANDS,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8,33,3,Moderate (~$1 to $5 million),,Many (~101 to 1000 people)
+2568,1977,4,20,23,42,-9.89,160.348,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,19,,Limited (<$1 million),,
+2097,1978,3,22,0,50,44.026,149.002,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.7,33,-2.5,,,
+2108,1978,7,23,14,42,22.282,121.512,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,7.4,17,-1,,,
+2106,1978,6,14,12,32,8.249,122.403,"MINDANAO ISLAND, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Probable Tsunami,6.9,24,,,,
+2109,1978,11,29,19,52,16.01,-96.591,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Questionable Tsunami,7.8,18,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2107,1978,6,20,20,3,40.739,23.229,"THESSALONIKI (SALONICA), GREECE",GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,6.4,3,2,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2105,1978,6,12,8,14,38.19,142.03,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,44,0.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+2103,1978,3,24,19,47,44.244,148.862,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.6,33,0,,,
+2101,1978,3,23,3,15,44.932,148.439,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,33,0,,,
+2099,1978,3,23,0,31,44.209,148.971,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,46,-1.5,,,
+2096,1978,1,14,3,24,34.809,139.259,TOKAIDO,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,,,Severe (~>$5 to $24 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2569,1978,3,22,21,34,44.14,149.029,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.6,33,-3,,,
+2913,1978,6,21,,,42,16,"EASTERN ITALY, ADRIATIC SEA",ITALY,Mediterranean Sea,Unknown,Questionable Tsunami,,,4,Limited (<$1 million),,
+4277,1978,8,14,14,17,36.37,-6.98,CADIZ,SPAIN,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,4.4,30,1,,,
+5513,1978,10,10,,,-43.08,172.97,OFF EAST COAST OF SOUTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,,,,
+5718,1978,,,,,21.4,108,TRA CO COAST,VIETNAM,"China, North and South Korea, Philippines, Taiwan",Unknown,Very Doubtful Tsunami,,,,Limited (<$1 million),,
+2390,1979,9,3,2,12,11.517,-69.5,PUERTO CUMAREBO,VENEZUELA,Caribbean Sea,Landslide,Questionable Tsunami,5,0,,Limited (<$1 million),,
+2110,1979,2,20,6,32,40.232,143.703,"IWATE, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.4,10,,,,
+2111,1979,2,28,21,27,60.691,-141.671,"SE. ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake and Landslide,Definite Tsunami,7.5,15,,Limited (<$1 million),,
+2121,1979,11,16,15,21,-16.76,179.984,FIJI ISLANDS,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Questionable Tsunami,6.9,33,,Moderate (~$1 to $5 million),,
+2113,1979,4,15,6,19,42.096,19.209,MONTENEGRO,MONTENEGRO,Mediterranean Sea,Earthquake,Definite Tsunami,6.9,10,1,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2112,1979,3,14,11,7,17.813,-101.276,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,49,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2120,1979,10,16,13,57,43.7,7.25,FRENCH RIVIERA (LIGURIAN SEA),FRANCE,Mediterranean Sea,Landslide,Definite Tsunami,,,,Limited (<$1 million),,Few (~1 to 50 people)
+2119,1979,9,12,5,17,-1.679,136.04,IRIAN JAYA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.9,5,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+2122,1979,12,12,7,59,1.598,-79.358,"COLOMBIA: OFF SHORE, PACIFIC OCEAN",COLOMBIA,West Coast of South America,Earthquake,Definite Tsunami,7.7,24,2.5,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2115,1979,7,18,,,-8.6,123.5,LOMBLEN ISLAND [LEMBATA],INDONESIA,Indian Ocean (including west coast of Australia),Landslide,Definite Tsunami,,,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+2915,1979,5,15,6,59,34.53,24.437,CRETE,GREECE,Mediterranean Sea,Earthquake,Event that only caused a seiche or disturbance in an inland river,5.6,33,1,,,
+2914,1979,4,9,2,10,41.956,19.023,MONTENEGRO: BAR ULCINJ,MONTENEGRO,Mediterranean Sea,Earthquake,Very Doubtful Tsunami,5.3,10,,,,
+4246,1979,10,6,,,65.117,12.333,NORTHERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,3,Limited (<$1 million),,
+2123,1980,2,23,5,51,43.53,146.753,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7,44,-2,,,
+2125,1980,7,17,19,42,-12.525,165.916,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,33,,,,
+2124,1980,6,29,7,20,34.808,139.181,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,15,,Moderate (~$1 to $5 million),,
+2916,1980,10,10,12,25,36.195,1.354,EL ASNAM,ALGERIA,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,7.7,10,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+3018,1980,5,18,,,46.2,-122.18,WASHINGTON,USA,West Coast of North and Central America,Volcano,Event that only caused a seiche or disturbance in an inland river,,,,,,Some (~51 to 100 people)
+4259,1980,1,1,16,42,38.727,-27.75,AZORES,PORTUGAL,Northeast Atlantic Ocean,Earthquake,Definite Tsunami,6.9,13,1,Moderate (~$1 to $5 million),,Some (~51 to 100 people)
+2129,1981,5,11,7,10,-35.616,20.267,AGULHAS BANK,SOUTH AFRICA,West Coast of Africa,Landslide,Questionable Tsunami,,,,,,
+2126,1981,1,18,18,17,38.64,142.75,E. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,,,,,
+2132,1981,10,25,3,22,18.084,-102.084,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,28,,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+2130,1981,5,25,5,25,-48.786,164.357,NEW ZEALAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,33,,,,
+2128,1981,2,24,20,53,38.222,22.934,ATHENS-EASTERN GULF OF CORINTH,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.7,33,3,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+2131,1981,9,1,9,29,-14.96,-173.085,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.7,25,-2,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5417,1981,3,4,21,58,38.209,23.288,GULF OF CORINTH,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,6.4,29,,,,
+2136,1982,7,23,14,23,36.194,141.702,"IBARAKI, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7.2,37,-1,,,
+2343,1982,3,11,10,32,-9.265,118.479,SUMBAWA ISLAND,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Very Doubtful Tsunami,6.6,33,,,,
+2139,1982,12,28,6,37,33.826,139.434,S. OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,22,-1,,,
+2134,1982,2,24,4,22,4.374,97.755,JAVA TRENCH,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,5.4,52,,,,
+2137,1982,12,19,17,43,-24.133,-175.864,KERMADEC ISLANDS,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,33,,,,
+2135,1982,3,21,2,32,42.158,142.361,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,44,,,,
+2589,1982,1,11,6,10,13.752,124.358,PHILIPPINES,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Questionable Tsunami,7.1,46,,,,
+2147,1983,8,17,10,55,55.867,161.287,"KAMCHATKA BAY, RUSSIA",RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,63,,,,
+2145,1983,6,21,6,25,41.346,139.099,N. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,10,,Limited (<$1 million),,
+2144,1983,6,9,12,49,40.249,138.948,"NOSHIRO, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,5.9,26,,,,
+2140,1983,3,12,1,36,-4.056,127.924,BANDA SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.9,17,1.5,,,
+2150,1983,11,30,17,46,-6.852,72.11,CHAGOS ARCHIPELAGO REGION,UK TERRITORY,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.7,10,,Limited (<$1 million),,
+2149,1983,10,4,18,52,-26.535,-70.563,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,15,0.2,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2148,1983,8,17,12,17,18.231,120.86,LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.6,29,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2146,1983,8,6,15,43,40.142,24.766,NORTH AEGEAN SEA,GREECE,Mediterranean Sea,Earthquake,Questionable Tsunami,7,2,2,Limited (<$1 million),,
+2141,1983,3,18,9,5,-4.883,153.581,NEW BRITAIN,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,89,,Moderate (~$1 to $5 million),,
+2142,1983,5,26,2,59,40.462,139.102,"NOSHIRO, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7.8,24,2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2917,1983,1,17,12,41,38.026,20.228,IONIAN SEA,GREECE,Mediterranean Sea,Earthquake,Probable Tsunami,7.2,,,,,
+4248,1983,8,18,9,,61.233,7.717,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4,Limited (<$1 million),,
+4702,1983,8,17,,,-8.54,123.59,LESSER SUNDA ISLANDS,INDONESIA,Indian Ocean (including west coast of Australia),Volcano,Very Doubtful Tsunami,,,,,,
+2152,1984,2,11,8,2,38.396,22.094,"CORINTHOS GULF, GREECE",GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,5.4,29,3,,,
+2154,1984,6,13,2,29,31.448,140.036,"TORI SHIMA, OKINAWA",JAPAN,Japan,Earthquake,Definite Tsunami,5.5,41,,,,
+2156,1984,9,18,17,2,34.006,141.5,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,48,,,,
+2153,1984,3,24,9,44,44.117,148.192,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.2,44,-2,,,
+2157,1984,12,28,10,37,56.194,163.46,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.8,33,,,,
+2155,1984,8,6,19,6,32.386,131.945,"KYUSHU, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7,46,,,,
+2151,1984,1,8,15,24,-2.823,118.806,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,6.8,33,,Limited (<$1 million),,Few (~1 to 50 people)
+2163,1985,9,21,1,37,17.802,-101.647,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,31,,,,
+2162,1985,9,19,13,17,18.19,-102.533,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8,28,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2161,1985,7,3,4,36,-4.439,152.828,NEW IRELAND,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7.3,46,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+2160,1985,4,13,1,6,-9.245,114.185,BALI ISLAND,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.2,99,,,,
+2159,1985,3,16,14,54,17.013,-62.448,GUADELOUPE,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,6.4,13,,Moderate (~$1 to $5 million),,
+2158,1985,3,3,22,47,-33.132,-71.708,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8,33,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2165,1986,5,17,16,20,52.327,-174.504,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Very Doubtful Tsunami,6.4,15,,,,
+2166,1986,10,20,6,46,-28.117,-176.367,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,29,,,,
+2164,1986,5,7,22,47,51.52,-174.776,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,8,31,,Moderate (~$1 to $5 million),,
+3507,1986,11,14,21,20,23.901,121.574,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.8,34,,Limited (<$1 million),,Few (~1 to 50 people)
+2173,1987,7,6,2,49,-14.074,167.828,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,6.7,48,,,,
+2172,1987,6,18,14,3,-10.717,162.33,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.3,75,,,,
+2167,1987,2,6,13,16,36.988,141.689,E. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,48,,,,
+2177,1987,11,17,8,46,58.586,-143.27,"GULF OF ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.2,10,,,,
+2175,1987,10,12,13,57,-7.288,154.371,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,25,,,,
+2174,1987,10,6,4,19,-17.94,-172.225,TONGA ISLANDS,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.3,16,,,,
+2171,1987,3,24,12,49,37.447,137.865,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,5.1,23,,,,
+2179,1987,11,30,19,23,58.679,-142.786,"GULF OF ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,10,,Limited (<$1 million),,
+2176,1987,10,16,20,48,-6.266,149.06,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,48,,Moderate (~$1 to $5 million),,
+2170,1987,3,18,3,36,32.034,131.837,KYUSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,54,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2169,1987,3,5,9,17,-24.388,-70.161,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,62,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2168,1987,2,8,18,33,-6.088,147.689,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,55,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4237,1987,2,21,7,40,62.2,6.65,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,2,,,
+5514,1987,5,20,,,-45.46,167.15,DEEP COVE,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,,,,
+2182,1988,6,24,2,6,18.606,121.013,NORTH OF LUZON ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,5.4,53,,,,
+2180,1988,2,5,14,1,-24.753,-70.433,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.2,37,,,,
+2183,1988,7,5,20,32,-5.964,148.78,PAPUA NEW GUINEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,53,,,,
+2181,1988,3,6,22,35,57.262,-142.747,"GULF OF ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,15,,Limited (<$1 million),,
+2184,1988,8,10,4,38,-10.258,160.896,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,36,,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2372,1988,8,6,0,36,25.149,95.127,"JAMUNA RIVER, ARICHA, BANGLADESH",BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,7.2,91,,,,Few (~1 to 50 people)
+2591,1988,4,20,5,30,38.4,14.967,"LA FOSSA VOLCANO, VULCANO IS.",ITALY,Mediterranean Sea,Landslide,Definite Tsunami,,,,,,
+5735,1988,8,20,23,9,26.755,86.616,BANGLADESH,BANGLADESH,Indian Ocean (including west coast of Australia),Earthquake,Event that only caused a seiche or disturbance in an inland river,6.6,57,,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+2369,1989,11,1,10,25,18.986,-68.833,PUERTO RICO,USA TERRITORY,Caribbean Sea,Earthquake,Probable Tsunami,4.4,26,,,,
+2189,1989,10,29,5,25,39.571,143.333,N. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10,,,,
+2187,1989,9,4,13,14,55.543,-156.835,"SEMIDI ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.1,11,,,,
+2190,1989,11,1,18,25,39.837,142.76,JAPAN,JAPAN,Japan,Earthquake,Probable Tsunami,7.4,29,,,,
+2188,1989,10,18,0,4,37.036,-121.883,N. CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,19,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Some (~51 to 100 people)
+2186,1989,6,26,3,27,19.362,-155.083,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake and Landslide,Definite Tsunami,6.5,9,,,,
+2185,1989,5,23,10,54,-52.341,160.568,MACQUARIE ISLAND,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,10,,,,
+2919,1989,10,29,19,9,36.788,2.448,"ALGIERS, CHERCHELL, TIPAZA",ALGERIA,Mediterranean Sea,Earthquake,Questionable Tsunami,5.9,,,,,
+2195,1990,5,,,,7,126,"CANIGUIN IS.,PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Unknown,Very Doubtful Tsunami,,,,,,
+2198,1990,12,13,19,50,23.722,121.627,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.3,10,,Limited (<$1 million),,
+2196,1990,9,23,21,13,33.267,138.643,"W. OF BONIN ISLANDS, IZU IS., JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10,,,,
+2191,1990,2,20,6,53,34.706,139.252,JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,14,,,,
+2197,1990,12,13,0,24,37.3,15.438,EASTERN SICILY,ITALY,Mediterranean Sea,Earthquake,Definite Tsunami,5.3,11,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2194,1990,4,5,21,12,15.125,147.596,"MARIANA TRENCH, N. MARIANA ISLANDS",USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,11,,,,
+2192,1990,3,25,13,22,9.919,-84.808,COSTA RICA,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7,22,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+5440,1990,2,8,7,15,9.755,124.694,PHILIPPINES,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.6,26,,Limited (<$1 million),,Some (~51 to 100 people)
+5703,1990,6,20,21,0,36.957,49.409,CASPIAN SEA,IRAN,Black Sea and Caspian Sea,Earthquake and Landslide,Probable Tsunami,7.3,19,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2203,1991,5,7,,,37.133,26.833,EAST AEGEAN SEA,GREECE,Mediterranean Sea,Meteorological,Very Doubtful Tsunami,,,,,,
+2206,1991,12,22,8,43,45.533,151.021,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Very Doubtful Tsunami,7.6,24,0.5,,,
+2205,1991,10,14,15,58,-9.094,158.442,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,23,-2.5,,,
+2201,1991,2,21,2,35,58.427,-175.45,"BERING SEA, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.7,20,,,,
+2200,1991,2,16,1,23,48.268,154.328,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,5.7,39,,,,
+2199,1991,2,9,16,18,-9.929,159.139,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,10,,Limited (<$1 million),,
+2202,1991,4,22,21,56,9.685,-83.073,"LIMON, PANDORA",COSTA RICA,Caribbean Sea,Earthquake,Definite Tsunami,7.6,10,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Some (~51 to 100 people)
+2920,1991,1,4,,,37.7,26.3,EAST AEGEAN SEA,GREECE,Mediterranean Sea,Unknown,Very Doubtful Tsunami,,,,,,
+2211,1992,7,18,8,36,39.419,143.33,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,29,-0.5,,,
+2207,1992,1,5,6,,18,108,SOUTH CHINA SEA,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,3.7,,,Limited (<$1 million),,
+2210,1992,5,27,5,13,-11.122,165.239,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,19,,,,
+2209,1992,5,17,10,15,7.191,126.762,PHILIPPINES,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.3,33,,Limited (<$1 million),Few (~1 to 50 houses),
+2208,1992,4,25,18,6,40.368,-124.316,"CAPE MENDOCINO, N. CALIFORNIA",USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,15,0.5,Extreme (~$25 million or more),,
+2213,1992,9,2,0,16,11.727,-87.386,NICARAGUA,NICARAGUA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,40,2.8,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2214,1992,12,12,5,29,-8.48,121.896,FLORES SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,28,2.7,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+5427,1992,8,11,15,14,32.536,141.641,,JAPAN,Japan,Earthquake,Very Doubtful Tsunami,6.3,16,,,,
+2222,1993,11,13,1,18,51.934,158.647,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7,34,-3,,,
+2220,1993,8,7,19,42,41.985,139.839,JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,13,,,,
+2221,1993,8,8,8,34,12.982,144.801,"GUAM, MARIANA ISLANDS",USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,59,,Extreme (~$25 million or more),,
+2218,1993,6,8,13,3,51.218,157.829,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,71,-0.5,,,
+2215,1993,2,7,13,27,37.634,137.245,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.3,11,-0.5,,,
+2219,1993,7,12,13,17,42.851,139.197,SEA OF JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,7.7,17,3.1,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5515,1993,6,18,11,52,-28.886,-176.819,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Very Doubtful Tsunami,6.6,20,,,,
+5602,1993,3,12,14,1,-14.385,-178.252,FUTUNA,WALLIS AND FUTUNA (FRENCH TERRITORY),"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,6.4,10,,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2229,1994,9,19,,,-4.238,152.214,PAPUA NEW GUINEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,,Extreme (~$25 million or more),,
+2232,1994,10,9,7,55,43.905,147.916,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.3,33,-3,,,
+2226,1994,4,8,1,10,40.608,143.683,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,13,-1.5,,,
+2228,1994,9,1,15,15,40.402,-125.68,N. CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7,10,-3,Limited (<$1 million),,
+2235,1994,12,28,12,19,40.525,143.419,"TOHUKU, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,7.8,27,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2230,1994,10,4,13,22,43.773,147.321,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,14,2.6,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+2224,1994,1,21,2,24,1.015,127.733,HALMAHERA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7,20,1.5,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2223,1994,1,17,12,30,34.213,-118.537,"WEST COAST, USA",USA,West Coast of North and Central America,Earthquake,Probable Tsunami,6.7,18,-3,Extreme (~$25 million or more),Very Many (~1001 or more houses),Some (~51 to 100 people)
+2233,1994,11,4,4,12,59.5,-135.3,"SKAGWAY, AK",USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,2.5,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2231,1994,10,8,21,44,-1.258,127.98,HALMAHERA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.8,17,1.5,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2234,1994,11,14,19,15,13.525,121.067,PHILIPPINE ISLANDS,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.1,32,2.1,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Some (~51 to 100 people)
+2227,1994,6,2,18,17,-10.477,112.835,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,18,2.5,Moderate (~$1 to $5 million),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2592,1994,6,3,21,6,-10.362,112.892,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.6,26,,,,
+2593,1994,6,5,1,45,-10.341,113.369,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.1,17,,,,
+4249,1994,4,28,11,30,61.267,6.583,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4,Limited (<$1 million),,
+5405,1994,1,4,,,44.4,-67.97,"COREA HARBOR, MAINE",USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Very Doubtful Tsunami,,,,,,
+5428,1994,5,24,4,0,23.959,122.448,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Very Doubtful Tsunami,6.5,16,,,,
+5576,1994,6,4,0,57,-10.777,113.366,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Questionable Tsunami,6.5,11,,,,
+5691,1994,,,,,45.22,36.72,KERCH STRAIT,RUSSIA,Black Sea and Caspian Sea,Landslide,Probable Tsunami,,,,,,
+2255,1995,11,1,0,35,-28.906,-71.417,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,20,-3,,,
+2254,1995,10,19,2,41,28.094,130.148,RYUKYU ISLANDS,JAPAN,Japan,Earthquake and Landslide,Definite Tsunami,6.8,20,0.5,,,
+2253,1995,10,18,10,37,27.929,130.175,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,28,1.5,Limited (<$1 million),,
+2242,1995,4,21,5,17,12.047,125.92,SAMAR ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,23,-2,,,
+2241,1995,4,21,0,34,12.059,125.58,SAMAR ISLAND,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.2,21,-2,,,
+2257,1995,12,3,18,1,44.663,149.3,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.9,33,0.5,,,
+2256,1995,11,22,4,15,28.826,34.799,GULF OF ELAT-AQABA,EGYPT,Red Sea and Persian Gulf,Earthquake,Definite Tsunami,7.2,10,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2251,1995,9,14,14,4,16.779,-98.597,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,7.4,23,-1,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2250,1995,8,16,10,27,-5.799,154.178,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,30,-1.5,Limited (<$1 million),,
+2249,1995,7,30,5,11,-23.34,-70.294,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8,46,1.5,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2248,1995,6,15,0,15,38.401,22.283,GULF OF CORINTH: AIYION,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.5,14,3,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2247,1995,5,27,13,3,52.629,142.827,SAKHALIN ISLAND,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.1,11,-2,Extreme (~$25 million or more),,Very Many (~1001 or more people)
+2246,1995,5,16,20,12,-23.008,169.9,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,20,-2,,,
+2240,1995,4,7,22,6,-15.199,-173.529,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,21,-1.5,,,
+2236,1995,1,16,20,46,34.583,135.018,"KOBE, JAPAN",JAPAN,Japan,Earthquake,Definite Tsunami,6.9,22,-2,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2252,1995,10,9,15,35,19.055,-104.205,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8,33,2.5,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2245,1995,5,14,11,33,-8.452,125.049,TIMOR SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,6.9,13,1.5,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2258,1996,1,1,,,38.367,22.083,W. CORINTH GULF,GREECE,Mediterranean Sea,Landslide,Definite Tsunami,,,2,Limited (<$1 million),,
+2392,1996,1,2,15,40,54.05,159.43,"KARYMSKOYE, KAMCHATKA, RUSSIA",RUSSIA,Kamchatka and Kuril Islands,Volcano,Definite Tsunami,,,,Limited (<$1 million),,
+2268,1996,10,19,14,44,31.885,131.468,KYUSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,22,0.5,Limited (<$1 million),,
+2270,1996,12,2,22,17,31.789,131.314,SEA OF JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,49,-2,,,
+2266,1996,9,5,8,14,-22.118,-113.436,EASTER ISLAND REGION,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,10,-2.5,,,
+2265,1996,9,4,18,16,31.555,139.931,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,5.7,33,-2,,,
+2264,1996,6,10,15,24,51.478,-176.847,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.3,24,-1.5,,,
+2262,1996,2,25,3,8,15.978,-98.07,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.1,21,-3,,,
+2267,1996,10,18,10,50,30.568,131.093,KYUSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,10,-2.5,,,
+2269,1996,11,12,16,59,-14.993,-75.675,S. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.7,33,-1,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2263,1996,6,10,4,3,51.564,-177.632,"ANDREANOF ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,33,0.5,,,
+2261,1996,2,21,12,51,-9.593,-79.587,N. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.5,10,1.9,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2259,1996,1,1,8,5,0.729,119.931,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.9,24,1.8,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2260,1996,2,17,5,59,-0.891,136.952,IRIAN JAYA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,8.2,33,1.8,Moderate (~$1 to $5 million),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5242,1996,4,24,8,0,46.73,7.97,LAKE BRIENZ,SWITZERLAND,Mediterranean Sea,Unknown,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5641,1996,9,5,23,42,21.898,121.498,TAIWAN REGION,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,20,,,,
+2279,1997,12,26,8,,16.72,-62.18,WHITE RIVER VALLEY,MONTSERRAT,Caribbean Sea,Volcano and Landslide,Definite Tsunami,,,,,,
+2278,1997,12,14,3,30,54.841,162.035,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Landslide,Probable Tsunami,,,2,Limited (<$1 million),,
+2275,1997,10,14,9,53,-22.1,-176.77,TONGA ISLANDS,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.7,167,,,,
+2277,1997,12,5,11,26,54.841,162.035,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.8,33,0.5,,,
+2274,1997,7,9,19,24,10.598,-63.486,CARIACO-CUMANA,VENEZUELA,Caribbean Sea,Earthquake,Probable Tsunami,7,20,,Extreme (~$25 million or more),,Some (~51 to 100 people)
+2273,1997,4,21,12,2,-12.584,166.676,SANTA CRUZ IS. VANUATU,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.7,33,-2,Limited (<$1 million),Few (~1 to 50 houses),
+3034,1997,9,30,6,27,31.959,141.878,S. OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,10,,,,
+5416,1997,4,10,,,13.1,-87.6,GULF OF FONSECA,HONDURAS,West Coast of North and Central America,Unknown,Very Doubtful Tsunami,,,,Limited (<$1 million),,
+5707,1997,3,12,,,-21.7,168,NEW CALEDONIA,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Unknown,Probable Tsunami,,,,,,
+2280,1998,5,3,23,30,22.306,125.308,TAIWAN:  SOUTHEAST OF,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,33,,,,
+2281,1998,7,17,8,49,-2.943,142.582,PAPUA NEW GUINEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake and Landslide,Definite Tsunami,7,25,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+2587,1998,3,25,3,12,-62.877,149.527,BALLENY ISLANDS,ANTARCTICA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Probable Tsunami,8.1,10,,,,
+2588,1998,11,29,14,10,-2.071,124.891,"TALIABU ISLAND,",INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Questionable Tsunami,7.7,33,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4247,1998,3,19,18,30,61.183,5.267,WESTERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,4,Moderate (~$1 to $5 million),,
+5742,1998,5,30,18,18,39.027,143.441,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.2,33,,,,
+2339,1999,11,26,13,21,-16.423,168.214,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,33,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2326,1999,8,17,0,1,40.76,29.97,"KOCAELI, TURKEY",TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,7.6,13,,Extreme (~$25 million or more),,Very Many (~1001 or more people)
+2880,1999,1,20,,,16.722,-62.18,SOUFRIERE HILLS VOLCANO,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,,,,
+3229,1999,9,13,,,-10.52,-138.67,FATU HIVA,FRENCH POLYNESIA,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Definite Tsunami,,,,Limited (<$1 million),,
+2353,2000,11,4,19,30,34.5,-120.65,"POINT ARGUELLO, S. CALIFORNIA",USA,West Coast of North and Central America,Landslide,Very Doubtful Tsunami,,0,,Limited (<$1 million),,
+2352,2000,11,16,4,54,-4.001,152.327,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8,17,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2340,2000,7,1,7,1,34.221,139.131,"KOZU-SHIMA ISLAND, HONSHU",JAPAN,Japan,Earthquake,Definite Tsunami,6.1,10,,Limited (<$1 million),,Few (~1 to 50 people)
+2341,2000,6,18,14,44,-13.802,97.453,SOUTH INDIAN OCEAN,AUSTRALIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.9,10,,,,
+2338,2000,5,4,4,21,-1.105,123.573,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,26,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+2922,2000,4,5,4,36,34.22,25.69,CRETE,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,5.5,38,,,,
+3509,2000,7,30,12,25,33.901,139.376,HONSHU: S COAST,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,10,,Limited (<$1 million),,
+3508,2000,7,15,1,30,34.319,139.26,HONSHU: S COAST,JAPAN,Japan,Earthquake,Definite Tsunami,6.1,10,,Limited (<$1 million),,
+3535,2000,11,21,18,4,70.25,-52.75,"PAATUUT, GREENLAND",GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,,,Limited (<$1 million),Few (~1 to 50 houses),
+5692,2000,,,,,45.12,36.7,KERCH STRAIT,RUSSIA,Black Sea and Caspian Sea,Landslide,Probable Tsunami,,,,,,
+2404,2001,12,18,4,2,23.954,122.734,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.8,14,,,,
+2373,2001,6,23,20,33,-16.265,-73.641,S. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,8.4,33,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5444,2001,1,13,17,33,13.049,-88.66,EL SALVADOR,EL SALVADOR,West Coast of North and Central America,Earthquake,Probable Tsunami,7.7,60,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5609,2001,10,12,5,2,52.63,-132.2,QUEEN CHARLOTTE ISLANDS,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.1,20,,,,
+2395,2002,3,26,3,45,23.346,124.09,JAPAN,JAPAN,Japan,Earthquake,Probable Tsunami,6.4,33,,,,
+2400,2002,10,10,10,50,-1.757,134.297,IRIAN JAYA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Very Doubtful Tsunami,7.6,10,2.82,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2399,2002,9,13,22,28,13.036,93.068,"ANDAMAN ISLANDS, INDIA",INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.5,21,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2398,2002,9,8,18,44,-3.26,142.94,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,13,1.08,Severe (~>$5 to $24 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+2396,2002,3,31,6,52,24.279,122.179,TAIWAN,TAIWAN,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.1,33,,Moderate (~$1 to $5 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+2394,2002,3,5,21,16,6.033,124.249,"MINDANAO ISLAND, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.5,31,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+2397,2002,1,2,17,22,-17.6,167.856,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,21,-4.14,Limited (<$1 million),,
+2923,2002,12,30,13,15,38.789,15.213,STROMBOLI ISLAND,ITALY,Mediterranean Sea,Volcano and Landslide,Definite Tsunami,,,5,Moderate (~$1 to $5 million),,
+5532,2002,11,4,,,-44.7,169.2,ALBERT TOWN,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5717,2002,3,24,,,36.45,28.2,DODECANESE ISLANDS,GREECE,Mediterranean Sea,Unknown,Probable Tsunami,,,,Limited (<$1 million),,
+2428,2003,10,31,1,6,37.812,142.619,E. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,10,,,,
+2429,2003,11,17,6,43,51.146,178.65,"RAT ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,33,,Limited (<$1 million),,
+2403,2003,5,21,18,44,36.964,3.634,N. ALGERIA,ALGERIA,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,12,1.5,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2402,2003,1,22,2,6,18.77,-104.104,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.5,24,0.5,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+2401,2003,1,20,8,43,-10.491,160.77,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,33,,,,
+2406,2003,9,25,19,50,41.815,143.91,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,8.3,27,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+2694,2003,7,12,,,16.722,-62.18,SOUFRIERE HILLS VOLCANO,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,,Limited (<$1 million),,
+3015,2003,12,27,4,55,-22.107,169.35,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.1,10,,,,
+2953,2003,8,21,12,12,-45.104,167.144,SOUTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Definite Tsunami,7.2,28,,Limited (<$1 million),,
+3618,2003,5,27,17,11,36.939,3.578,ALGIERS,ALGERIA,Mediterranean Sea,Earthquake,Definite Tsunami,5.7,8,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+2434,2004,1,28,22,15,-3.12,127.4,SERAM ISLAND,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.7,17,,,,
+2437,2004,9,5,14,57,33.184,137.071,SOUTH COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,10,,Limited (<$1 million),,
+2436,2004,9,5,10,7,33.07,136.618,SOUTH COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,14,,Limited (<$1 million),,
+2439,2004,12,26,0,58,3.316,95.854,OFF W. COAST OF SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,9.1,30,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+2693,2004,11,21,11,41,15.679,-61.706,"BASSE-TERRE, LES SAINTES",GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Definite Tsunami,6.3,14,,,,
+3012,2004,11,2,10,2,49.277,-128.772,VANCOUVER ISLAND,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.6,10,,,,
+3014,2004,12,23,14,59,-49.312,161.345,MACQUARIE ISLAND,AUSTRALIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,10,,,,
+2921,2004,11,28,18,32,43.006,145.119,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,39,,Moderate (~$1 to $5 million),,
+3013,2004,11,11,21,26,-8.152,124.868,KEPULAUAN ALOR,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,10,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4562,2004,2,11,8,15,31.675,35.551,DEAD SEA,JORDAN,Mediterranean Sea,Earthquake,Definite Tsunami,5.3,27,,Moderate (~$1 to $5 million),,
+5517,2004,11,22,20,26,-46.676,164.721,PUYSEGUR TRENCH,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.1,10,,,,
+2466,2005,1,19,6,11,34.064,141.491,E. HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,28,,,,
+2507,2005,4,10,10,29,-1.644,99.607,KEPULAUAN MENTAWAI,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.7,19,,,,
+2487,2005,3,28,16,9,2.085,97.108,INDONESIA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.6,30,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+2547,2005,6,15,2,50,41.301,-125.97,N. CALIFORNIA,USA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,10,,,,
+2548,2005,8,16,2,46,38.276,142.039,E. COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,36,,Limited (<$1 million),Few (~1 to 50 houses),
+2590,2005,11,14,21,38,38.107,144.896,E. COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,11,,,,
+4802,2005,2,14,18,5,15.775,-61.744,DOMINICA PASSAGE,GUADELOUPE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Probable Tsunami,5.8,12,,,,
+2749,2006,5,3,15,26,-20.187,-174.123,TONGA,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8,55,,Limited (<$1 million),,
+2832,2006,7,17,8,19,-9.254,107.411,SOUTH OF JAVA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.7,34,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+2877,2006,5,20,11,20,16.722,-62.18,SOUFRIERE HILLS VOLCANO,MONTSERRAT,Caribbean Sea,Volcano,Definite Tsunami,,,,Limited (<$1 million),,
+3016,2006,11,15,11,14,46.592,153.266,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.3,10,,Moderate (~$1 to $5 million),,
+2972,2006,9,28,6,22,-16.592,-172.033,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,28,,,,
+2875,2006,3,14,6,57,-3.595,127.214,SERAM ISLAND,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,6.7,30,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3017,2006,10,15,17,7,19.878,-155.935,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Earthquake,Definite Tsunami,6.7,39,,Moderate (~$1 to $5 million),,
+3622,2006,12,26,12,26,21.799,120.547,TAIWAN,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7,10,,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+5727,2006,6,15,,,40,3.83,"CIUTADELLA, MENORCA ISLAND",SPAIN,Mediterranean Sea,Meteorological,Definite Tsunami,,,,Extreme (~$25 million or more),,
+3019,2007,1,13,4,23,46.243,154.524,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,8.1,10,,,,
+3038,2007,3,25,0,40,-20.617,169.357,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,34,,,,
+3035,2007,3,25,0,41,37.336,136.588,HONSHU: W COAST,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,8,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3037,2007,4,1,20,39,-8.46,157.044,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,8.1,10,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Some (~51 to 100 people)
+3156,2007,8,2,3,21,51.307,-179.971,"ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.7,21,,,,
+3155,2007,8,2,2,37,47.116,141.798,TATAR STRAIT,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,6.2,5,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+3104,2007,7,16,1,13,37.57,138.478,HONSHU: W COAST,JAPAN,Japan,Earthquake,Definite Tsunami,6.6,10,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+3044,2007,4,21,17,53,-45.285,-72.606,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake and Landslide,Definite Tsunami,6.2,,,Limited (<$1 million),,Few (~1 to 50 people)
+3168,2007,8,15,23,40,-13.386,-76.603,S. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,8,39,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+3228,2007,9,12,11,10,-4.438,101.367,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.4,34,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+3248,2007,9,30,5,23,-49.418,163.954,AUCKLAND ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,10,,,,
+3293,2007,11,14,15,40,-22.247,-69.89,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,40,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+3348,2007,12,4,,,49.475,-121.847,"CHEHALIS LAKE, CHILLIWACK",CANADA,West Coast of North and Central America,Landslide,Definite Tsunami,,,,Limited (<$1 million),,
+3598,2007,9,2,1,5,-11.61,165.762,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,35,,,,
+3599,2007,12,9,7,28,-25.996,-177.514,KERMADEC ISLANDS,KERMADEC ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,153,,,,
+4311,2007,5,7,,,43,29,BLACK SEA,BULGARIA,Black Sea and Caspian Sea,Landslide,Questionable Tsunami,,,,Limited (<$1 million),,
+5441,2007,11,29,19,0,14.944,-61.274,MARTINIQUE,MARTINIQUE (FRENCH TERRITORY),Caribbean Sea,Earthquake,Very Doubtful Tsunami,7.4,156,,,,
+3505,2008,4,9,12,46,-20.071,168.892,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,35,,,,
+3382,2008,2,25,8,36,-2.486,99.972,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.5,25,,Limited (<$1 million),,
+3558,2008,7,19,2,39,37.552,142.214,OFF EAST COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,22,,,,
+3588,2008,8,20,23,0,-28.5,13.2,SOUTHERN ATLANTIC OCEAN,SOUTH AFRICA,West Coast of Africa,Unknown,Probable Tsunami,,,,Limited (<$1 million),,
+3621,2008,10,28,,,43.8,-69.7,MAINE,USA,"East Coast USA and Canada, St Pierre and Miquelon",Meteorological,Probable Tsunami,,,,Limited (<$1 million),,
+3601,2008,4,28,18,33,-19.941,168.953,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Very Doubtful Tsunami,6.4,32,,,,
+3589,2008,9,11,0,20,41.892,143.754,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.8,25,,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+3586,2008,5,12,6,28,31.002,103.322,SICHUAN PROVINCE,CHINA,"China, North and South Korea, Philippines, Taiwan",Earthquake,Event that only caused a seiche or disturbance in an inland river,7.9,19,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+3587,2008,8,8,,,52.18,-175.5,"KASATOCHI VOLCANO, ALEUTIAN IS, AK",USA,Alaska (including Aleutian Islands),Volcano,Definite Tsunami,,,,,,
+3623,2008,11,16,17,2,1.271,122.091,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.3,30,,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+5701,2008,11,23,,,31.065,109.92,"WU GORGE, WUSHAN COUNTY",CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Limited (<$1 million),,
+3647,2009,1,3,19,43,-0.414,132.885,NEAR NORTH COAST,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.6,17,,Severe (~>$5 to $24 million),,Few (~1 to 50 people)
+3649,2009,1,3,22,33,-0.691,133.305,NEAR NORTH COAST,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.3,23,,,,
+3691,2009,1,15,17,49,46.857,155.154,KAMCHATKA,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.4,36,,,,
+3692,2009,2,11,17,34,3.884,126.397,CELEBES SEA,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.2,22,,Moderate (~$1 to $5 million),,
+4312,2009,3,19,18,17,-23.046,-174.659,TONGA,TONGA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,34,,,,
+4442,2009,10,7,22,3,-13.006,166.51,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,45,,,,
+4356,2009,5,28,8,24,16.72,-86.236,OFF COAST OF HONDURAS,HONDURAS,Caribbean Sea,Earthquake,Definite Tsunami,7.3,10,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+4441,2009,9,30,10,16,-0.72,99.867,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,81,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Very Many (~1001 or more people)
+4482,2009,8,16,7,38,-1.479,99.49,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.7,20,,,,
+4419,2009,8,10,19,55,14.099,92.888,ANDAMAN ISLANDS,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Probable Tsunami,7.5,5,,,,
+4418,2009,8,10,20,7,34.743,138.264,HONSHU: S COAST,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,40,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Few (~1 to 50 people)
+4376,2009,7,15,9,22,-45.762,166.562,OFF WEST COAST OF SOUTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,12,,Limited (<$1 million),,
+4440,2009,9,29,17,48,-15.489,-172.095,SAMOA ISLANDS,SAMOA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.1,18,,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+5713,2009,7,1,9,30,34.164,25.471,CRETE,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.4,19,,,,
+5734,2009,9,2,7,55,-7.782,107.297,JAVA SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7,46,,Severe (~>$5 to $24 million),,Some (~51 to 100 people)
+4522,2010,1,3,21,48,-8.743,157.477,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,26,,,,
+4523,2010,1,3,22,36,-8.799,157.346,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,25,,Limited (<$1 million),Few (~1 to 50 houses),
+4542,2010,1,5,12,15,-9.019,157.551,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,15,,,,
+4622,2010,1,12,21,53,18.457,-72.533,HAITI & DOMINICAN REPUBLIC,HAITI,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7,13,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+4682,2010,2,27,6,34,-36.122,-72.898,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.8,23,,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+4763,2010,4,6,22,15,2.383,97.048,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,31,,,,
+4722,2010,3,11,14,39,-34.29,-71.891,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,11,,Limited (<$1 million),,
+4782,2010,2,26,20,31,25.93,128.425,RYUKYU ISLANDS,JAPAN,Japan,Earthquake,Probable Tsunami,7,25,,,,
+4762,2010,4,13,,,-9.282,-77.645,"513 LAKE, HUALCAN GLACIER",PERU,West Coast of South America,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+4822,2010,5,29,11,46,16.708,145.97,"SOUTH OF SARIGAN IS, N. MARIANA IS",USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Definite Tsunami,,,,,,
+4902,2010,6,12,19,26,7.881,91.936,LITTLE NICOBAR ISLAND,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,35,,,,
+5222,2010,8,10,5,23,-17.541,168.069,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,25,,,,
+5343,2010,8,13,21,19,12.484,141.476,"GUAM, MARIANA ISLANDS",USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,10,,,,
+5342,2010,10,25,14,42,-3.487,100.082,SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,20,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5402,2010,12,21,17,19,26.901,143.698,BONIN ISLANDS,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,14,,,,
+5403,2010,12,25,13,16,-19.702,167.947,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,16,,Limited (<$1 million),,
+5443,2010,4,13,,,-21.955,-157.92,"MANGAIA ISLAND, COOK ISLANDS",COOK ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Questionable Tsunami,,,,,,
+5407,2011,2,21,23,51,-43.583,172.68,SOUTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,6.1,6,,,,
+5406,2011,2,11,20,5,-36.474,-73.125,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.8,28,,,,
+5412,2011,3,9,2,45,38.435,142.842,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,32,,,,
+5413,2011,3,11,5,46,38.297,142.372,HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,9.1,30,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+5419,2011,1,9,10,3,-19.157,168.311,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,24,,,,
+5431,2011,7,10,0,57,38.034,143.264,OFF EAST COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7,23,,,,
+5432,2011,6,24,3,9,52.05,-171.836,"ATKA, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.3,52,,,,
+5430,2011,7,6,19,3,-29.539,-176.34,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,17,,,,
+5433,2011,6,27,,,50.5,-3,"PLYMOUTH, ENGLAND",UK,Northeast Atlantic Ocean,Meteorological,Questionable Tsunami,,,,,,
+5434,2011,8,6,12,55,59.05,6.64,"LYSEFJOREN, WESTERN NORWAY",NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,,,,
+5429,2011,4,7,14,32,38.276,141.588,E. COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,42,,Limited (<$1 million),,Few (~1 to 50 people)
+5435,2011,7,30,5,30,59.05,6.64,"LYSEFJOREN, WESTERN NORWAY",NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,,Limited (<$1 million),,
+5436,2011,8,20,18,19,-18.311,168.218,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,28,,,,
+5437,2011,8,20,16,55,-18.365,168.143,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,32,,,,
+5438,2011,9,2,10,55,52.171,-171.708,"FOX ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.8,32,,,,
+5439,2011,10,21,17,57,-28.993,-176.238,KERMADEC ISLANDS,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,33,,,,
+5721,2011,5,10,8,55,-20.244,168.226,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,11,,,,
+5447,2012,3,20,18,2,16.493,-98.231,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,20,,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5446,2012,3,14,9,8,40.887,144.944,HOKKAIDO ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,12,,,,
+5449,2012,4,11,8,38,2.327,93.063,OFF W. COAST OF N SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.6,20,,Limited (<$1 million),,Few (~1 to 50 people)
+5450,2012,4,11,10,43,0.802,92.463,OFF W. COAST OF N SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.2,25,,,,
+5451,2012,4,14,22,5,-18.972,168.741,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,11,,,,
+5442,2012,2,2,13,34,-17.827,167.133,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,23,,,,
+5462,2012,8,27,4,37,12.139,-88.59,EL SALVADOR-NICARAGUA,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,28,,Limited (<$1 million),,
+5463,2012,8,31,12,47,10.811,126.638,PHILIPPINE ISLANDS,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,28,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5464,2012,9,5,14,42,10.085,-85.315,COSTA RICA,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,35,,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+5460,2012,7,15,,,69.2,-51.3,"ILULISSAT ICEFJORD, GREENLAND",GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,,,,,
+5468,2012,11,7,16,35,13.988,-91.895,GUATEMALA,GUATEMALA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,24,,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Some (~51 to 100 people)
+5471,2012,12,28,,,31.256,110.733,"ZHAOJUN BRIDGE, HUBEI PROVINCE",CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5469,2012,12,7,8,18,37.89,143.949,OFF EAST COAST OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,31,,,,
+5467,2012,10,28,3,4,52.788,-132.101,BRITISH COLUMBIA,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,14,,,,Few (~1 to 50 people)
+5706,2012,3,9,7,9,-19.125,169.613,OFF EAST COAST OF VANUATU,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,16,,,,
+5472,2013,1,5,8,58,55.393,-134.652,"SE. ALASKA, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.5,10,,Limited (<$1 million),,
+5477,2013,2,8,15,26,-10.928,166.018,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,21,,,,
+5476,2013,2,6,1,12,-10.766,165.114,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,24,,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5479,2013,4,19,3,5,46.221,150.788,S. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.2,110,,,,
+5491,2013,7,21,5,9,-41.704,174.337,COOK STRAIT,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,17,,Limited (<$1 million),,
+5519,2013,8,16,2,31,-41.731,174.027,WELLINGTON,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,10,,Limited (<$1 million),,
+5506,2013,9,24,,,25.18,62.26,OFF COAST GWADAR,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,,47,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5533,2013,10,25,17,10,37.2,144.6,E. COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,10,,,,
+5534,2013,11,17,9,4,-60.274,-46.401,SCOTIA SEA,ANTARCTICA,Southwest Atlantic Ocean,Earthquake,Definite Tsunami,7.7,10,,,,
+5752,2013,4,22,1,16,18.081,-102.182,MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,6,30,,,,
+5555,2014,3,16,21,16,-19.965,-70.814,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,21,,Limited (<$1 million),,
+5564,2014,4,19,13,29,-6.755,155.024,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,43,,,,
+5560,2014,4,13,12,36,-11.463,162.051,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,39,,,,
+5563,2014,4,18,14,28,17.397,-100.972,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,24,,Limited (<$1 million),,
+5558,2014,4,3,2,43,-20.571,-70.493,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,22,,,,
+5559,2014,4,12,20,14,-11.27,162.148,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,23,,,,
+5557,2014,4,1,23,46,-19.61,-70.769,NORTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,25,,Extreme (~$25 million or more),,Few (~1 to 50 people)
+5571,2014,6,23,20,53,51.849,178.735,"ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,109,,,,
+5572,2014,6,23,19,20,-29.977,-177.725,"S OF RAOUL ISLAND, KERMADEC ISLANDS",NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,20,,,,
+5574,2014,7,11,19,23,37.005,142.453,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,20,,,,
+5575,2014,7,25,10,55,58.306,-136.96,"PALMA BAY, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.1,10,,,,
+5577,2014,10,9,2,14,-32.108,-110.811,EASTER ISLAND REGION,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7,16,,,,
+5578,2014,11,15,2,32,1.893,126.522,N. MOLUCCAS ISLANDS,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.1,45,,,,
+5607,2014,10,14,3,51,12.526,-88.123,GULF OF FONSECA,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,40,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5693,2014,6,27,10,37,46.32,30.67,ODESSA,UKRAINE,Black Sea and Caspian Sea,Landslide,Definite Tsunami,,,,,,
+5743,2014,7,21,23,24,65.02,-16.7,ASKJA LAKE,ICELAND,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5580,2015,2,16,23,6,39.856,142.881,HONSHU,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,23,,,,
+5581,2015,3,29,23,48,-4.729,152.562,BISMARCK SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,41,,,,
+5582,2015,2,19,13,18,-16.431,168.148,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.4,10,,Limited (<$1 million),,
+5584,2015,5,2,16,51,31.529,140.213,S. OF HONSHU ISLAND,JAPAN,Japan,Earthquake,Probable Tsunami,5.7,10,,,,
+5583,2015,5,5,1,44,-5.462,151.875,NEW BRITAIN,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,55,,Limited (<$1 million),,
+5589,2015,7,10,4,12,-9.307,158.403,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,12,,,,
+5588,2015,7,18,2,28,-10.401,165.141,SANTA CRUZ ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,11,,,,
+5591,2015,7,27,4,49,52.214,-169.399,"FOX ISLANDS, ALEUTIAN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.9,23,,,,
+5590,2015,9,16,22,55,-31.573,-71.674,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.3,22,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+5596,2015,10,18,5,19,60.08,-141.3,"ICY BAY, AK",USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,,,,
+5593,2015,11,13,20,51,31.001,128.873,JAPAN,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,12,,,,
+5594,2015,11,17,7,10,38.67,20.6,IONIAN SEA,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.5,11,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5592,2015,11,11,1,54,-29.46,-72.12,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,33,,,,
+5674,2015,5,10,,,69.8,20.92,NORTHERN NORWAY,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,,Limited (<$1 million),,
+5700,2015,6,24,,,31.077,109.896,"WUSHAN, CHONGQING",CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+5722,2015,11,18,18,31,-8.899,158.422,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,13,,,,
+5598,2016,3,2,12,49,-4.952,94.33,SW. SUMATRA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,24,,,,
+5599,2016,4,16,23,58,0.35,-80.16,OFF COAST,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,7.8,17,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5600,2016,4,28,19,33,-16.043,167.379,VANUATU ISLANDS,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7,24,,,,
+5605,2016,8,19,7,33,-55.285,-31.877,SOUTHERN ATLANTIC OCEAN,UK TERRITORY,Southwest Atlantic Ocean,Earthquake,Probable Tsunami,7.4,10,,,,
+5604,2016,8,12,1,26,-22.477,173.117,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,16,,,,
+5613,2016,11,13,11,2,-42.737,173.054,OFF EAST COAST OF SOUTH ISLAND,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,15,,Extreme (~$25 million or more),Few (~1 to 50 houses),Few (~1 to 50 people)
+5606,2016,9,1,16,37,-37.359,179.146,GISBORNE,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7,19,,,,
+5620,2016,11,24,18,43,11.96,-88.835,NICARAGUA,NICARAGUA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,33,,,,
+5636,2016,12,17,10,51,-4.505,153.522,SOLOMON SEA,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,95,,,,
+5630,2016,12,8,17,38,-10.681,161.327,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,40,,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5632,2016,12,9,19,11,-10.749,161.132,SOLOMON ISLANDS,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,20,,,,
+5618,2016,11,21,20,59,37.393,141.387,E. COAST HONSHU ISLAND,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,9,,Limited (<$1 million),,
+5637,2016,12,25,14,22,-43.517,-74.391,SOUTHERN CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,30,,Limited (<$1 million),,
+5741,2016,8,20,9,1,40.394,143.68,SANRIKU,JAPAN,Japan,Earthquake,Definite Tsunami,6,10,,,,
+5642,2017,1,22,4,31,-6.246,155.172,BOUGAINVILLE ISLAND,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,135,,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5639,2017,1,3,21,53,-19.373,176.052,FIJI ISLANDS,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,12,,,,
+5643,2017,3,19,4,30,27.835,51.94,PERSIAN GULF,IRAN,Red Sea and Persian Gulf,Meteorological,Definite Tsunami,,,,Severe (~>$5 to $24 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+5648,2017,4,28,20,23,5.504,125.066,"SOCCSKSARGEN, PHILIPPINES",PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.9,26,,Limited (<$1 million),Few (~1 to 50 houses),
+5649,2017,5,1,12,31,59.852,-136.677,"SKAGWAY, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.2,1,,,,
+5647,2017,4,24,21,39,-33.038,-72.062,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,28,,,,
+5651,2017,6,17,23,39,71.813,-52.569,"KARRAT FJORD, GREENLAND",GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,0,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5654,2017,7,17,23,35,54.443,168.857,BERING ISLAND,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.7,10,,,,
+5655,2017,7,20,22,31,36.929,27.414,GULF OF GÖKOVA,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,7,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5656,2017,7,19,12,50,11,-74.3,OFF THE COAST NEAR SANTA MARTA,COLOMBIA,Caribbean Sea,Landslide,Definite Tsunami,,,,Limited (<$1 million),Few (~1 to 50 houses),
+5652,2017,6,12,12,28,38.93,26.365,LESBOS,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.3,12,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5664,2017,11,1,2,24,-21.648,168.859,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,22,,,,
+5663,2017,10,31,0,43,-21.697,169.149,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,24,,,,
+5658,2017,9,8,4,49,14.761,-94.103,S. MEXICO,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.2,46,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Some (~51 to 100 people)
+5670,2017,11,19,22,43,-21.325,168.672,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,10,,,,
+5671,2017,12,8,,,-30,-179,KERMADEC ISLANDS,KERMADEC ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Probable Tsunami,,,,,,
+5723,2017,11,19,9,26,-21.638,168.673,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,14,,,,
+5724,2017,11,19,15,10,-21.503,168.598,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,13,,,,
+5672,2018,1,10,2,51,17.474,-83.519,OFF COAST OF HONDURAS,HONDURAS,Caribbean Sea,Earthquake,Definite Tsunami,7.5,10,,Limited (<$1 million),,
+5673,2018,1,23,9,31,56.046,-149.073,"KODIAK ISLAND, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,25,,Limited (<$1 million),,
+5676,2018,2,9,,,-3.608,144.588,"KADOVAR ISLAND, PAPUA NEW GUINEA",PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,,,,
+5675,2018,1,14,9,18,-15.776,-74.744,S. PERU,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.1,36,,,,
+5678,2018,5,4,22,32,19.37,-155.032,HAWAII,USA,"Hawaii, Johnston Atoll, Midway I",Volcano and Earthquake,Definite Tsunami,6.9,5,,Extreme (~$25 million or more),Many (~101 to 1000 houses),
+5685,2018,8,5,11,46,-8.287,116.452,BALI SEA,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.9,31,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5690,2018,10,25,22,54,37.506,20.563,IONIAN SEA,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,14,,Limited (<$1 million),,
+5686,2018,8,19,0,19,-18.178,-178.111,FIJI ISLANDS,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.2,563,,,,
+5687,2018,8,21,21,31,10.855,-62.883,SUCRE,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,7.3,154,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+5688,2018,8,29,3,51,-22.066,170.05,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,27,,,,
+5689,2018,9,28,10,2,-0.178,119.84,SULAWESI,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake and Landslide,Definite Tsunami,7.5,10,,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+5698,2018,12,5,4,18,-21.969,169.446,LOYALTY ISLANDS,NEW CALEDONIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,10,,Limited (<$1 million),,
+5699,2018,12,22,13,55,-6.102,105.423,KRAKATAU,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Landslide,Definite Tsunami,,,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5725,2018,10,16,1,3,-21.743,169.522,LOYALTY ISLANDS,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,17,,,,
+5714,2018,12,11,4,48,50.56,131.47,"BUREYA, FAR EASTERN RUSSIA",RUSSIA,Kamchatka and Kuril Islands,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,,
+5712,2019,6,18,13,22,38.646,139.472,NIIGATA,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,12,,Moderate (~$1 to $5 million),,
+5705,2019,5,14,12,58,-4.051,152.597,"RABAUL, NEW BRITAIN",PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.6,10,,Limited (<$1 million),Few (~1 to 50 houses),
+5710,2019,6,14,0,19,-30.056,-72.082,CENTRAL CHILE,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.4,11,,,,
+5711,2019,6,15,22,55,-30.805,-178.095,"S OF RAOUL ISLAND, KERMADEC ISLANDS",NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.2,34,,,,
+5716,2019,8,28,,,38.789,15.213,STROMBOLI ISLAND,ITALY,Mediterranean Sea,Volcano,Probable Tsunami,,,,,,
+5733,2019,11,14,16,17,1.6,126.416,N. MOLUCCAS ISLANDS,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.1,33,,Limited (<$1 million),,Few (~1 to 50 people)
+5736,2020,1,7,8,24,17.916,-66.813,PUERTO RICO,USA TERRITORY,Caribbean Sea,Earthquake,Definite Tsunami,6.4,10,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5740,2020,1,28,19,10,19.44,-78.755,OFF SE COAST,CUBA,Caribbean Sea,Earthquake,Definite Tsunami,7.7,10,,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+5746,2020,3,25,2,49,48.986,157.693,N. KURIL ISLANDS,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,57,,,,
+5747,2020,5,2,12,51,34.205,25.712,CRETE,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,17,,,,
+5748,2020,5,29,5,30,-8.058,114.242,LESSER SUNDA: BALI: IJEN VOLCANO,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Earthquake,Event that only caused a seiche or disturbance in an inland river,,,,,,Few (~1 to 50 people)
+5753,2020,7,22,6,12,55.03,-158.522,"SHUMAGIN ISLANDS, AK",USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,28,,,,
+5750,2020,6,18,12,49,-33.294,-177.838,"S OF RAOUL ISLAND, KERMADEC ISLANDS",NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,10,,,,
+5751,2020,6,23,15,29,16.029,-95.901,OFF OF COAST OF OAXACA,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,26,,Extreme (~$25 million or more),,Few (~1 to 50 people)
