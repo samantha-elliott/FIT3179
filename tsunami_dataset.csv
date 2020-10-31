@@ -1,0 +1,153 @@
+ID,DATE,YEAR,LONGITUDE,COUNTRY,REGION,CAUSE,EVENT_VALIDITY,EQ_MAGNITUDE,EQ_DEPTH,DAMAGE_TOTAL_DESCRIPTION,HOUSES_TOTAL_DESCRIPTION,DEATHS_TOTAL_DESCRIPTION
+4522,1/03/2010,2010,157.477,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,26,,,
+4523,1/03/2010,2010,157.346,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,25,Limited (<$1 million),Few (~1 to 50 houses),
+4542,1/05/2010,2010,157.551,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,15,,,
+4622,1/12/2010,2010,-72.533,HAITI,Caribbean Sea,Earthquake and Landslide,Definite Tsunami,7,13,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+4682,27/02/2010,2010,-72.898,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.8,23,Extreme (~$25 million or more),,Many (~101 to 1000 people)
+4763,4/06/2010,2010,97.048,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,31,,,
+4722,3/11/2010,2010,-71.891,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,11,Limited (<$1 million),,
+4782,26/02/2010,2010,128.425,JAPAN,Japan,Earthquake,Probable Tsunami,7,25,,,
+4762,13/04/2010,2010,-77.645,PERU,West Coast of South America,Landslide,Event that only caused a seiche or disturbance in an inland river,,,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+4822,29/05/2010,2010,145.97,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Volcano,Definite Tsunami,,,,,
+4902,6/12/2010,2010,91.936,INDIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.5,35,,,
+5222,8/10/2010,2010,168.069,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,25,,,
+5343,13/08/2010,2010,141.476,USA TERRITORY,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,10,,,
+5342,25/10/2010,2010,100.082,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,20,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5402,21/12/2010,2010,143.698,JAPAN,Japan,Earthquake,Definite Tsunami,7.4,14,,,
+5403,25/12/2010,2010,167.947,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.3,16,Limited (<$1 million),,
+5443,13/04/2010,2010,-157.92,COOK ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Questionable Tsunami,,,,,
+5407,21/02/2011,2011,172.68,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake and Landslide,Questionable Tsunami,6.1,6,,,
+5406,2/11/2011,2011,-73.125,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.8,28,,,
+5412,3/09/2011,2011,142.842,JAPAN,Japan,Earthquake,Definite Tsunami,7.5,32,,,
+5413,3/11/2011,2011,142.372,JAPAN,Japan,Earthquake,Definite Tsunami,9.1,30,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+5419,1/09/2011,2011,168.311,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,24,,,
+5431,7/10/2011,2011,143.264,JAPAN,Japan,Earthquake,Definite Tsunami,7,23,,,
+5432,24/06/2011,2011,-171.836,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.3,52,,,
+5430,7/06/2011,2011,-176.34,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.6,17,,,
+5433,27/06/2011,2011,-3,UK,Northeast Atlantic Ocean,Meteorological,Questionable Tsunami,,,,,
+5434,8/06/2011,2011,6.64,NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,,,
+5429,4/07/2011,2011,141.588,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,42,Limited (<$1 million),,Few (~1 to 50 people)
+5435,30/07/2011,2011,6.64,NORWAY,Northeast Atlantic Ocean,Landslide,Probable Tsunami,,,Limited (<$1 million),,
+5436,20/08/2011,2011,168.218,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,28,,,
+5437,20/08/2011,2011,168.143,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,32,,,
+5438,9/02/2011,2011,-171.708,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.8,32,,,
+5439,21/10/2011,2011,-176.238,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,33,,,
+5721,5/10/2011,2011,168.226,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,11,,,
+5447,20/03/2012,2012,-98.231,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,20,Severe (~>$5 to $24 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5446,14/03/2012,2012,144.944,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,12,,,
+5449,4/11/2012,2012,93.063,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.6,20,Limited (<$1 million),,Few (~1 to 50 people)
+5450,4/11/2012,2012,92.463,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,8.2,25,,,
+5451,14/04/2012,2012,168.741,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,11,,,
+5442,2/02/2012,2012,167.133,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,23,,,
+5462,27/08/2012,2012,-88.59,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,28,Limited (<$1 million),,
+5463,31/08/2012,2012,126.638,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,7.6,28,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5464,9/05/2012,2012,-85.315,COSTA RICA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.6,35,Limited (<$1 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+5460,15/07/2012,2012,-51.3,GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,,,,
+5468,11/07/2012,2012,-91.895,GUATEMALA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,24,Severe (~>$5 to $24 million),Very Many (~1001 or more houses),Some (~51 to 100 people)
+5471,28/12/2012,2012,110.733,CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,
+5469,12/07/2012,2012,143.949,JAPAN,Japan,Earthquake,Definite Tsunami,7.2,31,,,
+5467,28/10/2012,2012,-132.101,CANADA,West Coast of North and Central America,Earthquake,Definite Tsunami,7.7,14,,,Few (~1 to 50 people)
+5706,3/09/2012,2012,169.613,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,16,,,
+5472,1/05/2013,2013,-134.652,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.5,10,Limited (<$1 million),,
+5477,2/08/2013,2013,166.018,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,21,,,
+5476,2/06/2013,2013,165.114,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,24,Moderate (~$1 to $5 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5479,19/04/2013,2013,150.788,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Questionable Tsunami,7.2,110,,,
+5491,21/07/2013,2013,174.337,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,17,Limited (<$1 million),,
+5519,16/08/2013,2013,174.027,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.5,10,Limited (<$1 million),,
+5506,24/09/2013,2013,62.26,PAKISTAN,Indian Ocean (including west coast of Australia),Earthquake and Landslide,Definite Tsunami,,47,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5533,25/10/2013,2013,144.6,JAPAN,Japan,Earthquake,Definite Tsunami,7.1,10,,,
+5534,17/11/2013,2013,-46.401,ANTARCTICA,Southwest Atlantic Ocean,Earthquake,Definite Tsunami,7.7,10,,,
+5752,22/04/2013,2013,-102.182,MEXICO,West Coast of North and Central America,Earthquake,Probable Tsunami,6,30,,,
+5555,16/03/2014,2014,-70.814,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.7,21,Limited (<$1 million),,
+5564,19/04/2014,2014,155.024,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,43,,,
+5560,13/04/2014,2014,162.051,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.4,39,,,
+5563,18/04/2014,2014,-100.972,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.2,24,Limited (<$1 million),,
+5558,4/03/2014,2014,-70.493,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.7,22,,,
+5559,4/12/2014,2014,162.148,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.6,23,,,
+5557,4/01/2014,2014,-70.769,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.2,25,Extreme (~$25 million or more),,Few (~1 to 50 people)
+5571,23/06/2014,2014,178.735,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,109,,,
+5572,23/06/2014,2014,-177.725,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,20,,,
+5574,7/11/2014,2014,142.453,JAPAN,Japan,Earthquake,Definite Tsunami,6.5,20,,,
+5575,25/07/2014,2014,-136.96,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.1,10,,,
+5577,10/09/2014,2014,-110.811,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7,16,,,
+5578,15/11/2014,2014,126.522,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Probable Tsunami,7.1,45,,,
+5607,14/10/2014,2014,-88.123,EL SALVADOR,West Coast of North and Central America,Earthquake,Definite Tsunami,7.3,40,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5693,27/06/2014,2014,30.67,UKRAINE,Black Sea and Caspian Sea,Landslide,Definite Tsunami,,,,,
+5743,21/07/2014,2014,-16.7,ICELAND,Northeast Atlantic Ocean,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,
+5580,16/02/2015,2015,142.881,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,23,,,
+5581,29/03/2015,2015,152.562,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.5,41,,,
+5582,19/02/2015,2015,168.148,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.4,10,Limited (<$1 million),,
+5584,5/02/2015,2015,140.213,JAPAN,Japan,Earthquake,Probable Tsunami,5.7,10,,,
+5583,5/05/2015,2015,151.875,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7.5,55,Limited (<$1 million),,
+5589,7/10/2015,2015,158.403,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,12,,,
+5588,18/07/2015,2015,165.141,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,11,,,
+5591,27/07/2015,2015,-169.399,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.9,23,,,
+5590,16/09/2015,2015,-71.674,CHILE,West Coast of South America,Earthquake,Definite Tsunami,8.3,22,Extreme (~$25 million or more),Very Many (~1001 or more houses),Few (~1 to 50 people)
+5596,18/10/2015,2015,-141.3,USA,Alaska (including Aleutian Islands),Landslide,Definite Tsunami,,,,,
+5593,13/11/2015,2015,128.873,JAPAN,Japan,Earthquake,Definite Tsunami,6.7,12,,,
+5594,17/11/2015,2015,20.6,GREECE,Mediterranean Sea,Earthquake and Landslide,Definite Tsunami,6.5,11,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5592,11/11/2015,2015,-72.12,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,33,,,
+5674,5/10/2015,2015,20.92,NORWAY,Northeast Atlantic Ocean,Landslide,Definite Tsunami,,,Limited (<$1 million),,
+5700,24/06/2015,2015,109.896,CHINA,"China, North and South Korea, Philippines, Taiwan",Landslide,Event that only caused a seiche or disturbance in an inland river,,,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+5722,18/11/2015,2015,158.422,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.8,13,,,
+5598,3/02/2016,2016,94.33,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,7.8,24,,,
+5599,16/04/2016,2016,-80.16,ECUADOR,West Coast of South America,Earthquake,Definite Tsunami,7.8,17,Extreme (~$25 million or more),Very Many (~1001 or more houses),Many (~101 to 1000 people)
+5600,28/04/2016,2016,167.379,VANUATU,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Probable Tsunami,7,24,,,
+5605,19/08/2016,2016,-31.877,UK TERRITORY,Southwest Atlantic Ocean,Earthquake,Probable Tsunami,7.4,10,,,
+5604,8/12/2016,2016,173.117,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.2,16,,,
+5613,13/11/2016,2016,173.054,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.8,15,Extreme (~$25 million or more),Few (~1 to 50 houses),Few (~1 to 50 people)
+5606,9/01/2016,2016,179.146,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7,19,,,
+5620,24/11/2016,2016,-88.835,NICARAGUA,West Coast of North and Central America,Earthquake,Definite Tsunami,6.9,33,,,
+5636,17/12/2016,2016,153.522,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,95,,,
+5630,12/08/2016,2016,161.327,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.8,40,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5632,12/09/2016,2016,161.132,SOLOMON ISLANDS,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.9,20,,,
+5618,21/11/2016,2016,141.387,JAPAN,Japan,Earthquake,Definite Tsunami,6.9,9,Limited (<$1 million),,
+5637,25/12/2016,2016,-74.391,CHILE,West Coast of South America,Earthquake,Definite Tsunami,7.6,30,Limited (<$1 million),,
+5741,20/08/2016,2016,143.68,JAPAN,Japan,Earthquake,Definite Tsunami,6,10,,,
+5642,22/01/2017,2017,155.172,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.9,135,Limited (<$1 million),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5639,1/03/2017,2017,176.052,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,6.9,12,,,
+5643,19/03/2017,2017,51.94,IRAN,Red Sea and Persian Gulf,Meteorological,Definite Tsunami,,,Severe (~>$5 to $24 million),Some (~51 to 100 houses),Few (~1 to 50 people)
+5648,28/04/2017,2017,125.066,PHILIPPINES,"China, North and South Korea, Philippines, Taiwan",Earthquake,Definite Tsunami,6.9,26,Limited (<$1 million),Few (~1 to 50 houses),
+5649,5/01/2017,2017,-136.677,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,6.2,1,,,
+5647,24/04/2017,2017,-72.062,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.9,28,,,
+5651,17/06/2017,2017,-52.569,GREENLAND,Northwest Atlantic Ocean,Landslide,Definite Tsunami,,0,Limited (<$1 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5654,17/07/2017,2017,168.857,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.7,10,,,
+5655,20/07/2017,2017,27.414,TURKEY,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,7,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5656,19/07/2017,2017,-74.3,COLOMBIA,Caribbean Sea,Landslide,Definite Tsunami,,,Limited (<$1 million),Few (~1 to 50 houses),
+5652,6/12/2017,2017,26.365,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.3,12,Moderate (~$1 to $5 million),Few (~1 to 50 houses),Few (~1 to 50 people)
+5664,11/01/2017,2017,168.859,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,22,,,
+5663,31/10/2017,2017,169.149,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.7,24,,,
+5658,9/08/2017,2017,-94.103,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,8.2,46,Extreme (~$25 million or more),Very Many (~1001 or more houses),Some (~51 to 100 people)
+5670,19/11/2017,2017,168.672,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7,10,,,
+5671,12/08/2017,2017,-179,KERMADEC ISLANDS,"E Coast Australia, New Zealand, South Pacific Is.",Unknown,Probable Tsunami,,,,,
+5723,19/11/2017,2017,168.673,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.3,14,,,
+5724,19/11/2017,2017,168.598,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.6,13,,,
+5672,1/10/2018,2018,-83.519,HONDURAS,Caribbean Sea,Earthquake,Definite Tsunami,7.5,10,Limited (<$1 million),,
+5673,23/01/2018,2018,-149.073,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.9,25,Limited (<$1 million),,
+5676,2/09/2018,2018,144.588,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Volcano,Definite Tsunami,,,,,
+5675,14/01/2018,2018,-74.744,PERU,West Coast of South America,Earthquake,Definite Tsunami,7.1,36,,,
+5678,5/04/2018,2018,-155.032,USA,"Hawaii, Johnston Atoll, Midway I",Volcano and Earthquake,Definite Tsunami,6.9,5,Extreme (~$25 million or more),Many (~101 to 1000 houses),
+5685,8/05/2018,2018,116.452,INDONESIA,Indian Ocean (including west coast of Australia),Earthquake,Definite Tsunami,6.9,31,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5690,25/10/2018,2018,20.563,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.8,14,Limited (<$1 million),,
+5686,19/08/2018,2018,-178.111,FIJI,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,8.2,563,,,
+5687,21/08/2018,2018,-62.883,VENEZUELA,Caribbean Sea,Earthquake,Questionable Tsunami,7.3,154,Moderate (~$1 to $5 million),,Few (~1 to 50 people)
+5688,29/08/2018,2018,170.05,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,7.1,27,,,
+5689,28/09/2018,2018,119.84,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake and Landslide,Definite Tsunami,7.5,10,Extreme (~$25 million or more),Very Many (~1001 or more houses),Very Many (~1001 or more people)
+5698,12/05/2018,2018,169.446,NEW CALEDONIA,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.5,10,Limited (<$1 million),,
+5699,22/12/2018,2018,105.423,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Landslide,Definite Tsunami,,,Extreme (~$25 million or more),Many (~101 to 1000 houses),Many (~101 to 1000 people)
+5725,16/10/2018,2018,169.522,NEW CALEDONIA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Definite Tsunami,6.5,17,,,
+5714,12/11/2018,2018,131.47,RUSSIA,Kamchatka and Kuril Islands,Landslide,Event that only caused a seiche or disturbance in an inland river,,,,,
+5712,18/06/2019,2019,139.472,JAPAN,Japan,Earthquake,Definite Tsunami,6.4,12,Moderate (~$1 to $5 million),,
+5705,14/05/2019,2019,152.597,PAPUA NEW GUINEA,"New Caledonia, New Guinea, Solomon Is., Vanuatu",Earthquake,Questionable Tsunami,7.6,10,Limited (<$1 million),Few (~1 to 50 houses),
+5710,14/06/2019,2019,-72.082,CHILE,West Coast of South America,Earthquake,Definite Tsunami,6.4,11,,,
+5711,15/06/2019,2019,-178.095,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.2,34,,,
+5716,28/08/2019,2019,15.213,ITALY,Mediterranean Sea,Volcano,Probable Tsunami,,,,,
+5733,14/11/2019,2019,126.416,INDONESIA,Indonesia (Pacific Ocean) and Malaysia,Earthquake,Definite Tsunami,7.1,33,Limited (<$1 million),,Few (~1 to 50 people)
+5736,1/07/2020,2020,-66.813,USA TERRITORY,Caribbean Sea,Earthquake,Definite Tsunami,6.4,10,Extreme (~$25 million or more),Many (~101 to 1000 houses),Few (~1 to 50 people)
+5740,28/01/2020,2020,-78.755,CUBA,Caribbean Sea,Earthquake,Definite Tsunami,7.7,10,Moderate (~$1 to $5 million),Few (~1 to 50 houses),
+5746,25/03/2020,2020,157.693,RUSSIA,Kamchatka and Kuril Islands,Earthquake,Definite Tsunami,7.5,57,,,
+5747,5/02/2020,2020,25.712,GREECE,Mediterranean Sea,Earthquake,Definite Tsunami,6.6,17,,,
+5748,29/05/2020,2020,114.242,INDONESIA,Indian Ocean (including west coast of Australia),Volcano and Earthquake,Event that only caused a seiche or disturbance in an inland river,,,,,Few (~1 to 50 people)
+5753,22/07/2020,2020,-158.522,USA,Alaska (including Aleutian Islands),Earthquake,Definite Tsunami,7.8,28,,,
+5750,18/06/2020,2020,-177.838,NEW ZEALAND,"E Coast Australia, New Zealand, South Pacific Is.",Earthquake,Definite Tsunami,7.4,10,,,
+5751,23/06/2020,2020,MEXICO,West Coast of North and Central America,Earthquake,Definite Tsunami,7.4,26,,,Few (~1 to 50 people),
