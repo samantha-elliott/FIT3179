@@ -11,7 +11,7 @@
       "field": "DATE",
       "type": "temporal",
       "title": "Month",
-      "scale": {"domain": [1,10]}
+      "scale": {"domain": [1,13]}
     },
     "y": {"aggregate": "count", "title": "No. of Tsunamis",
     "scale": {
