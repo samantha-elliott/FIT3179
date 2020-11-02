@@ -1,0 +1,25 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 300,
+  "height": 200,
+  "title": "Number of Tsunamis per Year by Region",
+  "data": {
+    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/tsunamifinal.csv"
+  },
+  "mark": "area",
+  "selection": {
+    "region": {"type": "multi", "fields": ["REGION"], "bind": "legend"}
+  },
+  "encoding": {
+    "x": {
+      "timeUnit": "year",
+      "field": "YEAR",
+      "title": "Year",
+      "axis": {"format": "%Y"}
+    },
+    "y": {"aggregate": "count", "field": "ID", "title": "No. of Tsunamis"},
+    "color": {"field": "REGION", "scale": {"scheme": "category20b"}},
+    "opacity": {"condition": {"selection": "region", "value": 1}, "value": 0.2}
+  },
+  "config": {}
+}
