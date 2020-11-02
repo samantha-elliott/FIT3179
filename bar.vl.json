@@ -10,13 +10,9 @@
       "timeUnit": "month",
       "field": "DATE",
       "type": "temporal",
-      "title": "Month",
-      "scale": {"domain": [1,13]}
+      "title": "Month"
     },
-    "y": {"aggregate": "count", "title": "No. of Tsunamis",
-    "scale": {
-        "domain": [0,10]
-      }},
+    "y": {"aggregate": "count", "title": "No. of Tsunamis"},
     "color": {"field": "DAMAGE_TOTAL_DESCRIPTION", "title": "Extent of Damage"},
     "opacity": {"condition": {"selection": "damage", "value": 1}, "value": 0.2},
     "tooltip": [
