@@ -4,7 +4,7 @@
   "height": 200,
   "title": "Number of Tsunamis per Year by Region",
   "data": {
-    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/tsunamifinal.csv"
+    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/Assignment%202%20Data.csv"
   },
   "mark": "area",
   "selection": {
