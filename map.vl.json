@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 500,
   "height": 400,
-  "title": "Tsunamis and the Magnitude of the Earthquake That Caused Them",
+  "title": "Tsunami 2010-2020 and the Magnitude of the Earthquake That Caused Them",
   "projection": {"type": "equalEarth"},
   "layer": [
     {
@@ -14,42 +14,7 @@
     },
     {
       "data": {
-        "url": "{
-  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Damage caused by Tsunamis per Month ",
-  "data": {
-    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/Assignment%202%20Data.csv"
-  },
-  "mark": {"type": "bar", "cornerRadiusTopLeft": 3, "cornerRadiusTopRight": 3},
-  "encoding": {
-    "x": {
-      "timeUnit": "month",
-      "field": "DATE",
-      "type": "temporal",
-      "title": "Month",
-      "scale": {"domain": [1,10]}
-    },
-    "y": {"aggregate": "count", "title": "No. of Tsunamis",
-    "scale": {
-        "domain": [0,10]
-      }},
-    "color": {"field": "DAMAGE_TOTAL_DESCRIPTION", "title": "Extent of Damage"},
-    "opacity": {"condition": {"selection": "damage", "value": 1}, "value": 0.2},
-    "tooltip": [
-      {"field": "REGION", "title": "Region"},
-      {"field": "EQ_DEPTH", "title": "Depth"}
-    ]
-  },
-  "selection": {
-    "damage": {
-      "type": "multi",
-      "fields": ["DAMAGE_TOTAL_DESCRIPTION"],
-      "bind": "legend"
-    }
-  },
-  
-  "config": {}
-}"
+        "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/Assignment%202%20Data.csv"
       },
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
       "encoding": {
@@ -63,6 +28,5 @@
         }
       }
     }
-  ],
-  "config": {}
+  ]
 }
