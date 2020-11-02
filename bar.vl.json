@@ -9,12 +9,20 @@
     "x": {
       "timeUnit": "month",
       "field": "DATE",
-      "type": "ordinal",
-      "title": "Month"
+      "type": "temporal",
+      "title": "Month",
+      "scale": {"domain": [1,13]}
     },
-    "y": {"aggregate": "count", "title": "No. of Tsunamis"},
+    "y": {"aggregate": "count", "title": "No. of Tsunamis",
+    "scale": {
+        "domain": [0,10]
+      }},
     "color": {"field": "DAMAGE_TOTAL_DESCRIPTION", "title": "Extent of Damage"},
-    "opacity": {"condition": {"selection": "damage", "value": 1}, "value": 0.2}
+    "opacity": {"condition": {"selection": "damage", "value": 1}, "value": 0.2},
+    "tooltip": [
+      {"field": "REGION", "title": "Region"},
+      {"field": "EQ_DEPTH", "title": "Depth"}
+    ]
   },
   "selection": {
     "damage": {
@@ -23,5 +31,6 @@
       "bind": "legend"
     }
   },
+  
   "config": {}
 }
