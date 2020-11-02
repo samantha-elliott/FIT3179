@@ -4,7 +4,7 @@
   "height": 300,
   "title": "Earthquakes that cause Tsunamis",
   "data": {
-    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/tsunamifinal.csv"
+    "url": "https://raw.githubusercontent.com/samantha-elliott/FIT3179/main/Assignment%202%20Data.csv"
   },
   "params": [
     {
