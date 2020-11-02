@@ -120,30 +120,26 @@
 
   </div> <!-- end page -->
   
-  
- <script type="text/javascript">
-  
-  var vis1 = "area.vl.json";
-  
-  vegaEmbed('#area', vis1).then(function(result) {
+    
+<script type="text/javascript">
+  var specVis1 = "map.vl.json";
+  var specVis2= "scatter.vl.json";
+  var specVis3 = "area.vl.json";
+  var specVis4= "bar.vl.json";
+
+  vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
   
-  var vis2 = "scatter.vl.json";
-  
-  vegaEmbed('#scatterplot', vis2).then(function(result) {
+   vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
-  
-   var vis3 = "mymap.vl.json";
-  
-  vegaEmbed('mymap', vis3).then(function(result) {
+
+  vegaEmbed('#vis3', specVis1, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
-  
-   var vis4 = "bar.vl.json";
-  
-  vegaEmbed('#bar', vis4).then(function(result) {
+
+  vegaEmbed('#vis4', specVis2, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
